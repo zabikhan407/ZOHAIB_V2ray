@@ -1,35 +1,60 @@
 const axios = require('axios');
 const net = require('net');
 
+// Multiple public sources for maximum configs
+const SOURCES = [
+    'https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/main/configs/proxy_configs.txt',
+    'https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/configs.txt',
+    'https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/main/Config/vless.txt',
+    'https://raw.githubusercontent.com/facksten/V2rayScrapper/main/configs_to_test.txt'
+];
+
 module.exports = async (req, res) => {
     try {
-        const url = 'https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/main/configs/proxy_configs.txt';
-        const response = await axios.get(url, { timeout: 10000 });
-        const lines = response.data.split('\n');
-        
-        let configs = [];
-        for (let line of lines) {
-            line = line.trim();
-            if ((line.startsWith('vless://') || line.startsWith('trojan://')) && line.includes('type=ws')) {
-                configs.push(line);
-            }
+        let allLines = new Set();
+        for (const src of SOURCES) {
+            try {
+                const response = await axios.get(src, { timeout: 8000 });
+                const lines = response.data.split('\n');
+                for (let line of lines) {
+                    line = line.trim();
+                    if ((line.startsWith('vless://') || line.startsWith('trojan://')) && line.includes('type=ws')) {
+                        allLines.add(line);
+                    }
+                }
+            } catch (e) { /* ignore failed source */ }
         }
-        configs = [...new Map(configs.map(c => [c, c])).values()];
-        const toTest = configs.slice(0, 30);
+        let configs = [...allLines];
+        // Limit to first 120 for performance (Vercel timeout 10s)
+        const toTest = configs.slice(0, 120);
         const results = [];
-        for (const cfg of toTest) {
-            const ping = await tcpPing(cfg);
-            if (ping !== null) {
-                const country = await getCountryFromConfig(cfg);
-                results.push({ config: cfg, ping, country });
-            }
+        
+        // Test in parallel with concurrency limit to avoid flooding
+        const concurrency = 10;
+        for (let i = 0; i < toTest.length; i += concurrency) {
+            const batch = toTest.slice(i, i + concurrency);
+            const batchResults = await Promise.all(batch.map(cfg => testSingleConfig(cfg)));
+            results.push(...batchResults.filter(r => r !== null));
         }
-        results.sort((a,b) => a.ping - b.ping);
+        
+        results.sort((a,b) => (a.alive === b.alive) ? (a.ping - b.ping) : (b.alive - a.alive));
         res.status(200).json({ status: 'success', total: results.length, configs: results });
     } catch (err) {
         res.status(500).json({ status: 'error', message: err.message });
     }
 };
+
+async function testSingleConfig(cfg) {
+    const ping = await tcpPing(cfg);
+    const alive = (ping !== null && ping < 5000);
+    let country = 'Unknown';
+    if (alive) country = await getCountryFromConfig(cfg);
+    else {
+        // still try to guess from domain
+        country = guessCountryFromDomain(cfg);
+    }
+    return { config: cfg, ping: alive ? ping : null, alive, country };
+}
 
 function tcpPing(link) {
     return new Promise((resolve) => {
@@ -58,10 +83,21 @@ async function getCountryFromConfig(link) {
         const geoRes = await axios.get(`http://ip-api.com/json/${domain}`, { timeout: 2000 });
         if (geoRes.data && geoRes.data.country) return geoRes.data.country;
     } catch (e) {}
-    const lower = domain.toLowerCase();
-    if (lower.includes('sg')) return 'Singapore';
-    if (lower.includes('pk')) return 'Pakistan';
-    if (lower.includes('de')) return 'Germany';
-    if (lower.includes('us')) return 'United States';
+    return guessCountryFromDomain(link);
+}
+
+function guessCountryFromDomain(link) {
+    const match = link.match(/@([^:]+):/);
+    if (!match) return 'Unknown';
+    const host = match[1].toLowerCase();
+    if (host.includes('sg')) return 'Singapore';
+    if (host.includes('pk')) return 'Pakistan';
+    if (host.includes('de')) return 'Germany';
+    if (host.includes('us') || host.includes('usa')) return 'United States';
+    if (host.includes('ca')) return 'Canada';
+    if (host.includes('nl')) return 'Netherlands';
+    if (host.includes('fr')) return 'France';
+    if (host.includes('jp')) return 'Japan';
+    if (host.includes('in')) return 'India';
     return 'Unknown';
-                   }
+        }
