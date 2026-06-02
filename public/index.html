@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>V2Ray Config Dashboard</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: 'Segoe UI', system-ui;
+            background: #0a0f1e;
+            color: #eef;
+            margin: 0;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #1e2434;
+            border-radius: 16px;
+            overflow: hidden;
+        }
+        th, td {
+            padding: 12px 16px;
+            text-align: left;
+            border-bottom: 1px solid #2a3145;
+        }
+        th {
+            background: #2a3145;
+            font-weight: 600;
+        }
+        .badge {
+            padding: 4px 10px;
+            border-radius: 20px;
+            background: #2c3e66;
+            font-size: 0.85rem;
+        }
+        button {
+            background: #3b4b7a;
+            border: none;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #50679e;
+        }
+        select, input {
+            background: #1a1f2e;
+            border: 1px solid #2a3145;
+            color: #eef;
+            padding: 6px 12px;
+            border-radius: 8px;
+        }
+        .loading {
+            text-align: center;
+            padding: 50px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>🚀 V2Ray Config Dashboard</h1>
+    <div style="margin-bottom: 20px;">
+        <button id="refreshBtn">🔄 Refresh Configs</button>
+        <select id="countryFilter">
+            <option value="all">🌍 All Countries</option>
+        </select>
+        <input type="text" id="searchBox" placeholder="🔍 Search domain/IP..." style="width: 250px;">
+    </div>
+    <div id="content">Loading...</div>
+</div>
+<script>
+    let allConfigs = [];
+    async function fetchConfigs() {
+        document.getElementById('content').innerHTML = '<div class="loading">⏳ Testing configs, please wait...</div>';
+        try {
+            const res = await fetch('/api/collector');
+            const data = await res.json();
+            if (data.status === 'success') {
+                allConfigs = data.configs;
+                renderTable(allConfigs);
+                populateCountryFilter(allConfigs);
+            } else {
+                document.getElementById('content').innerHTML = `<div style="color:red">⚠️ Error: ${data.message}</div>`;
+            }
+        } catch (err) {
+            document.getElementById('content').innerHTML = `<div style="color:red">⚠️ Network error: ${err.message}</div>`;
+        }
+    }
+    function renderTable(configs) {
+        if (!configs.length) {
+            document.getElementById('content').innerHTML = '<div class="loading">😞 No working configs found</div>';
+            return;
+        }
+        const html = `</table>
+                <thead>
+                    <tr><th>Protocol</th><th>Server</th><th>Country</th><th>Ping (ms)</th><th>Action</th></tr>
+                </thead>
+                <tbody>
+                    ${configs.map(cfg => {
+                        const proto = cfg.config.startsWith('vless') ? 'VLESS' : 'Trojan';
+                        const serverMatch = cfg.config.match(/@([^:]+)/);
+                        const server = serverMatch ? serverMatch[1] : 'Unknown';
+                        return `<tr>
+                            <td><span class="badge">${proto}</span></td>
+                            <td>${server}</td>
+                            <td>${cfg.country} ${getFlag(cfg.country)}</td>
+                            <td>${cfg.ping !== null ? cfg.ping : '—'}</td>
+                            <td><button onclick="copyToClipboard('${cfg.config.replace(/'/g, "\\'")}')">📋 Copy</button></td>
+                        </tr>`;
+                    }).join('')}
+                </tbody>
+            </table>`;
+        document.getElementById('content').innerHTML = html;
+    }
+    function getFlag(country) {
+        const flagMap = { 'Singapore': '🇸🇬', 'Pakistan': '🇵🇰', 'Germany': '🇩🇪', 'United States': '🇺🇸', 'United Kingdom': '🇬🇧' };
+        return flagMap[country] || '🏳️';
+    }
+    function populateCountryFilter(configs) {
+        const countries = [...new Set(configs.map(c => c.country))];
+        const select = document.getElementById('countryFilter');
+        select.innerHTML = '<option value="all">🌍 All Countries</option>';
+        countries.forEach(c => { select.innerHTML += `<option value="${c}">${c}</option>`; });
+    }
+    function copyToClipboard(text) {
+        navigator.clipboard.writeText(text);
+        alert('✅ Config copied!');
+    }
+    document.getElementById('refreshBtn').addEventListener('click', fetchConfigs);
+    document.getElementById('countryFilter').addEventListener('change', (e) => {
+        const val = e.target.value;
+        if (val === 'all') renderTable(allConfigs);
+        else renderTable(allConfigs.filter(c => c.country === val));
+    });
+    document.getElementById('searchBox').addEventListener('input', (e) => {
+        const term = e.target.value.toLowerCase();
+        if (!term) renderTable(allConfigs);
+        else renderTable(allConfigs.filter(c => c.config.toLowerCase().includes(term)));
+    });
+    fetchConfigs();
+</script>
+</body>
+      </html>
