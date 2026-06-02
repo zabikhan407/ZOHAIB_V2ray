@@ -1,149 +1,332 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>V2Ray Config Dashboard</title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZOHAIB NETWORK | V2Ray Config Hub</title>
     <style>
-        body {
-            font-family: 'Segoe UI', system-ui;
-            background: #0a0f1e;
-            color: #eef;
+        * {
             margin: 0;
-            padding: 2rem;
+            padding: 0;
+            box-sizing: border-box;
         }
+
+        body {
+            background: #0c0f0c;
+            background-image: radial-gradient(rgba(0, 255, 0, 0.1) 1px, transparent 1px);
+            background-size: 40px 40px;
+            font-family: 'Courier New', 'Fira Code', monospace;
+            color: #0f0;
+            padding: 20px;
+        }
+
         .container {
             max-width: 1400px;
             margin: 0 auto;
         }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            background: #1e2434;
-            border-radius: 16px;
-            overflow: hidden;
+
+        /* Hacker Banner */
+        .banner {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #0f0;
+            padding-bottom: 20px;
         }
-        th, td {
-            padding: 12px 16px;
-            text-align: left;
-            border-bottom: 1px solid #2a3145;
+
+        .banner h1 {
+            font-size: 3rem;
+            letter-spacing: 8px;
+            text-shadow: 0 0 10px #0f0, 0 0 20px #0f0;
+            animation: glitch 3s infinite;
         }
-        th {
-            background: #2a3145;
-            font-weight: 600;
+
+        .banner p {
+            font-size: 0.9rem;
+            color: #8f8;
+            margin-top: 10px;
         }
-        .badge {
+
+        @keyframes glitch {
+            0%, 100% { text-shadow: 0 0 10px #0f0; }
+            95% { text-shadow: -2px 0 red, 2px 0 blue; }
+            96% { text-shadow: 2px 0 red, -2px 0 blue; }
+        }
+
+        /* Controls */
+        .controls {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            justify-content: space-between;
+            margin-bottom: 30px;
+            background: #111;
+            padding: 15px;
+            border: 1px solid #2a2;
+            border-radius: 8px;
+        }
+
+        .btn {
+            background: #020;
+            border: 1px solid #0f0;
+            color: #0f0;
+            padding: 8px 20px;
+            font-family: inherit;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        .btn:hover {
+            background: #0f0;
+            color: #000;
+            box-shadow: 0 0 10px #0f0;
+        }
+
+        select, input {
+            background: #111;
+            border: 1px solid #0f0;
+            color: #0f0;
+            padding: 8px 12px;
+            font-family: inherit;
+        }
+
+        /* Card Grid */
+        .config-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .card {
+            background: #0a0f0a;
+            border: 1px solid #2a4;
+            border-radius: 12px;
+            padding: 16px;
+            transition: 0.2s;
+            backdrop-filter: blur(2px);
+        }
+
+        .card:hover {
+            border-color: #0f0;
+            box-shadow: 0 0 15px rgba(0,255,0,0.3);
+            transform: translateY(-3px);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px dashed #2a4;
+            padding-bottom: 8px;
+            margin-bottom: 12px;
+        }
+
+        .protocol {
+            background: #020;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 0.8rem;
+        }
+
+        .status {
+            font-size: 0.8rem;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .alive {
+            color: #0f0;
+        }
+        .dead {
+            color: #f00;
+        }
+
+        .server {
+            font-family: monospace;
+            font-size: 0.9rem;
+            word-break: break-all;
+            margin: 10px 0;
+            background: #030;
+            padding: 6px;
+            border-radius: 6px;
+        }
+
+        .country {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: #111;
             padding: 4px 10px;
             border-radius: 20px;
-            background: #2c3e66;
-            font-size: 0.85rem;
+            font-size: 0.8rem;
         }
-        button {
-            background: #3b4b7a;
-            border: none;
-            color: white;
-            padding: 6px 12px;
-            border-radius: 8px;
+
+        .ping {
+            font-size: 0.8rem;
+            margin-top: 8px;
+        }
+
+        .copy-btn {
+            width: 100%;
+            margin-top: 12px;
+            background: #020;
+            border: 1px solid #0f0;
+            color: #0f0;
+            padding: 6px;
             cursor: pointer;
+            font-family: inherit;
+            transition: 0.2s;
         }
-        button:hover {
-            background: #50679e;
+
+        .copy-btn:hover {
+            background: #0f0;
+            color: black;
         }
-        select, input {
-            background: #1a1f2e;
-            border: 1px solid #2a3145;
-            color: #eef;
-            padding: 6px 12px;
-            border-radius: 8px;
-        }
+
         .loading {
             text-align: center;
             padding: 50px;
+            font-size: 1.5rem;
+            animation: blink 1s infinite;
+        }
+
+        @keyframes blink {
+            50% { opacity: 0.5; }
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 0.7rem;
+            color: #4a4;
+            border-top: 1px solid #2a4;
+            padding-top: 20px;
         }
     </style>
 </head>
 <body>
 <div class="container">
-    <h1>🚀 V2Ray Config Dashboard</h1>
-    <div style="margin-bottom: 20px;">
-        <button id="refreshBtn">🔄 Refresh Configs</button>
-        <select id="countryFilter">
-            <option value="all">🌍 All Countries</option>
-        </select>
-        <input type="text" id="searchBox" placeholder="🔍 Search domain/IP..." style="width: 250px;">
+    <div class="banner">
+        <h1>┌─┐┬ ┬┌─┐┌┐┌┌─┐  ┬┌─┐  ZOHAIB_NETWORK</h1>
+        <p># V2Ray Config Hub | Only WebSocket | Real-time Ping | Hacker's Choice</p>
+        <p style="font-size:0.7rem;">>_ root@zohaib:~$ ./config_scraper --alive-only</p>
     </div>
-    <div id="content">Loading...</div>
+
+    <div class="controls">
+        <button class="btn" id="refreshBtn">⟳ REFRESH CONFIGS</button>
+        <select id="countryFilter"><option value="all">🌍 ALL COUNTRIES</option></select>
+        <input type="text" id="searchBox" placeholder="🔍 SEARCH SERVER / IP">
+        <select id="statusFilter"><option value="all">⚡ ALL STATUS</option><option value="alive">✅ ALIVE ONLY</option><option value="dead">❌ DEAD ONLY</option></select>
+    </div>
+
+    <div id="content" class="loading">>_ Initializing exploit modules...<br>Fetching latest proxy nodes...</div>
+    <footer># Use at your own risk. For educational purposes only. Configs update automatically every minute.</footer>
 </div>
+
 <script>
     let allConfigs = [];
+
     async function fetchConfigs() {
-        document.getElementById('content').innerHTML = '<div class="loading">⏳ Testing configs, please wait...</div>';
+        const contentDiv = document.getElementById('content');
+        contentDiv.innerHTML = '<div class="loading">>_ Scanning darknets...<br>Testing alive nodes...</div>';
         try {
             const res = await fetch('/api/collector');
             const data = await res.json();
             if (data.status === 'success') {
                 allConfigs = data.configs;
-                renderTable(allConfigs);
-                populateCountryFilter(allConfigs);
+                renderCards(allConfigs);
+                populateFilters(allConfigs);
             } else {
-                document.getElementById('content').innerHTML = `<div style="color:red">⚠️ Error: ${data.message}</div>`;
+                contentDiv.innerHTML = `<div style="color:#f44">⚠️ ERROR: ${data.message}</div>`;
             }
         } catch (err) {
-            document.getElementById('content').innerHTML = `<div style="color:red">⚠️ Network error: ${err.message}</div>`;
+            contentDiv.innerHTML = `<div style="color:#f44">⚠️ NETWORK ERROR: ${err.message}</div>`;
         }
     }
-    function renderTable(configs) {
+
+    function renderCards(configs) {
+        const container = document.getElementById('content');
         if (!configs.length) {
-            document.getElementById('content').innerHTML = '<div class="loading">😞 No working configs found</div>';
+            container.innerHTML = '<div class="loading">😞 No alive configs found. Try refresh.</div>';
             return;
         }
-        const html = `</table>
-                <thead>
-                    <tr><th>Protocol</th><th>Server</th><th>Country</th><th>Ping (ms)</th><th>Action</th></tr>
-                </thead>
-                <tbody>
-                    ${configs.map(cfg => {
-                        const proto = cfg.config.startsWith('vless') ? 'VLESS' : 'Trojan';
-                        const serverMatch = cfg.config.match(/@([^:]+)/);
-                        const server = serverMatch ? serverMatch[1] : 'Unknown';
-                        return `<tr>
-                            <td><span class="badge">${proto}</span></td>
-                            <td>${server}</td>
-                            <td>${cfg.country} ${getFlag(cfg.country)}</td>
-                            <td>${cfg.ping !== null ? cfg.ping : '—'}</td>
-                            <td><button onclick="copyToClipboard('${cfg.config.replace(/'/g, "\\'")}')">📋 Copy</button></td>
-                        </tr>`;
-                    }).join('')}
-                </tbody>
-            </table>`;
-        document.getElementById('content').innerHTML = html;
+
+        let html = '<div class="config-grid">';
+        for (let cfg of configs) {
+            const proto = cfg.config.startsWith('vless') ? 'VLESS' : 'TROJAN';
+            const serverMatch = cfg.config.match(/@([^:]+):(\d+)/);
+            const server = serverMatch ? serverMatch[1] : 'unknown';
+            const port = serverMatch ? serverMatch[2] : '?';
+            const alive = cfg.alive === true;
+            const pingVal = cfg.ping !== null ? cfg.ping : '—';
+            const flag = getFlag(cfg.country);
+            html += `
+                <div class="card">
+                    <div class="card-header">
+                        <span class="protocol">${proto}</span>
+                        <span class="status ${alive ? 'alive' : 'dead'}">
+                            ${alive ? '✅ ALIVE' : '❌ DEAD'}
+                            ${alive ? ` (${pingVal}ms)` : ''}
+                        </span>
+                    </div>
+                    <div class="server">🌐 ${server}:${port}</div>
+                    <div><span class="country">${flag} ${cfg.country || 'Unknown'}</span></div>
+                    ${!alive ? '<div class="ping" style="color:#a44;">🔴 No response / Timeout</div>' : ''}
+                    <button class="copy-btn" data-url="${cfg.config.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')}">📋 COPY CONFIG</button>
+                </div>
+            `;
+        }
+        html += '</div>';
+        container.innerHTML = html;
+
+        document.querySelectorAll('.copy-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                let url = btn.getAttribute('data-url');
+                navigator.clipboard.writeText(url);
+                btn.innerText = '✓ COPIED!';
+                setTimeout(() => btn.innerText = '📋 COPY CONFIG', 1500);
+            });
+        });
     }
+
     function getFlag(country) {
-        const flagMap = { 'Singapore': '🇸🇬', 'Pakistan': '🇵🇰', 'Germany': '🇩🇪', 'United States': '🇺🇸', 'United Kingdom': '🇬🇧' };
-        return flagMap[country] || '🏳️';
+        const map = {
+            'Singapore': '🇸🇬', 'Pakistan': '🇵🇰', 'Germany': '🇩🇪', 'United States': '🇺🇸',
+            'Canada': '🇨🇦', 'United Kingdom': '🇬🇧', 'France': '🇫🇷', 'Netherlands': '🇳🇱',
+            'Japan': '🇯🇵', 'India': '🇮🇳', 'Russia': '🇷🇺', 'Australia': '🇦🇺'
+        };
+        return map[country] || '🏳️';
     }
-    function populateCountryFilter(configs) {
-        const countries = [...new Set(configs.map(c => c.country))];
-        const select = document.getElementById('countryFilter');
-        select.innerHTML = '<option value="all">🌍 All Countries</option>';
-        countries.forEach(c => { select.innerHTML += `<option value="${c}">${c}</option>`; });
+
+    function populateFilters(configs) {
+        const countries = [...new Set(configs.map(c => c.country).filter(c => c))];
+        const countrySelect = document.getElementById('countryFilter');
+        countrySelect.innerHTML = '<option value="all">🌍 ALL COUNTRIES</option>';
+        countries.forEach(c => countrySelect.innerHTML += `<option value="${c}">${getFlag(c)} ${c}</option>`);
     }
-    function copyToClipboard(text) {
-        navigator.clipboard.writeText(text);
-        alert('✅ Config copied!');
+
+    function filterConfigs() {
+        let filtered = [...allConfigs];
+        const country = document.getElementById('countryFilter').value;
+        const search = document.getElementById('searchBox').value.toLowerCase();
+        const status = document.getElementById('statusFilter').value;
+        if (country !== 'all') filtered = filtered.filter(c => c.country === country);
+        if (search) filtered = filtered.filter(c => c.config.toLowerCase().includes(search));
+        if (status === 'alive') filtered = filtered.filter(c => c.alive === true);
+        if (status === 'dead') filtered = filtered.filter(c => c.alive === false);
+        renderCards(filtered);
     }
+
     document.getElementById('refreshBtn').addEventListener('click', fetchConfigs);
-    document.getElementById('countryFilter').addEventListener('change', (e) => {
-        const val = e.target.value;
-        if (val === 'all') renderTable(allConfigs);
-        else renderTable(allConfigs.filter(c => c.country === val));
-    });
-    document.getElementById('searchBox').addEventListener('input', (e) => {
-        const term = e.target.value.toLowerCase();
-        if (!term) renderTable(allConfigs);
-        else renderTable(allConfigs.filter(c => c.config.toLowerCase().includes(term)));
-    });
+    document.getElementById('countryFilter').addEventListener('change', filterConfigs);
+    document.getElementById('searchBox').addEventListener('input', filterConfigs);
+    document.getElementById('statusFilter').addEventListener('change', filterConfigs);
+
     fetchConfigs();
+    setInterval(fetchConfigs, 60000); // auto refresh every minute
 </script>
 </body>
-      </html>
+            </html>
