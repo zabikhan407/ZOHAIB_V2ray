@@ -25,6 +25,12 @@
             font-size: 2.5rem;
             letter-spacing: 4px;
             text-shadow: 0 0 5px #0f0;
+            animation: glitch 3s infinite;
+        }
+        @keyframes glitch {
+            0%,100% { text-shadow: 0 0 5px #0f0; }
+            95% { text-shadow: -2px 0 red, 2px 0 blue; }
+            96% { text-shadow: 2px 0 red, -2px 0 blue; }
         }
         .controls {
             display: flex;
@@ -43,6 +49,8 @@
             color: #0f0;
             padding: 8px 20px;
             cursor: pointer;
+            font-family: monospace;
+            font-weight: bold;
         }
         .btn:hover { background: #0f0; color: black; }
         select, input {
@@ -51,6 +59,14 @@
             color: #0f0;
             padding: 8px 12px;
             font-family: monospace;
+        }
+        .stats {
+            background: #020;
+            padding: 10px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 0.9rem;
         }
         .config-grid {
             display: grid;
@@ -64,7 +80,7 @@
             padding: 16px;
             transition: 0.2s;
         }
-        .card:hover { border-color: #0f0; box-shadow: 0 0 10px #0f0; }
+        .card:hover { border-color: #0f0; box-shadow: 0 0 10px #0f0; transform: translateY(-3px); }
         .card-header {
             display: flex;
             justify-content: space-between;
@@ -73,7 +89,7 @@
             padding-bottom: 8px;
             margin-bottom: 12px;
         }
-        .protocol { background: #020; padding: 4px 12px; border-radius: 20px; }
+        .protocol { background: #020; padding: 4px 12px; border-radius: 20px; font-weight: bold; }
         .status { color: #0f0; font-weight: bold; }
         .server {
             background: #030;
@@ -92,6 +108,7 @@
             color: #0f0;
             padding: 8px;
             cursor: pointer;
+            font-family: monospace;
         }
         .copy-btn:hover { background: #0f0; color: black; }
         .loading { text-align: center; padding: 50px; animation: blink 1s infinite; }
@@ -111,32 +128,30 @@
         <select id="countryFilter"><option value="all">🌍 ALL COUNTRIES</option></select>
         <input type="text" id="searchBox" placeholder="🔍 SEARCH IP/DOMAIN">
     </div>
-    <div id="content" class="loading">>_ loading exploit modules...</div>
-    <footer># only alive configs shown | auto-refresh every 60s</footer>
+    <div class="stats" id="stats"></div>
+    <div id="content" class="loading">>_ loading configs...</div>
+    <footer># auto-updated hourly | only configs with ping &lt; 800ms shown</footer>
 </div>
 <script>
     let allConfigs = [];
     async function fetchConfigs() {
-        document.getElementById('content').innerHTML = '<div class="loading">>_ scanning darknets...<br>testing websocket endpoints...</div>';
+        document.getElementById('content').innerHTML = '<div class="loading">>_ fetching latest configs...</div>';
         try {
-            const res = await fetch('/api/collector');
+            const res = await fetch('/configs.json?t=' + Date.now());
             if (!res.ok) throw new Error('HTTP ' + res.status);
             const data = await res.json();
-            if (data.status === 'success' && data.configs.length) {
-                allConfigs = data.configs;
-                renderCards(allConfigs);
-                populateCountries(allConfigs);
-                document.getElementById('timestamp').innerText = new Date().toLocaleString();
-            } else {
-                document.getElementById('content').innerHTML = '<div class="loading">⚠️ no working configs found. try refresh.</div>';
-            }
+            allConfigs = data.configs;
+            document.getElementById('timestamp').innerText = new Date(data.lastUpdated).toLocaleString();
+            document.getElementById('stats').innerHTML = `📡 ${allConfigs.length} working configs | ⚡ fastest ping: ${allConfigs[0]?.ping || '?'}ms`;
+            renderCards(allConfigs);
+            populateCountries(allConfigs);
         } catch (err) {
-            document.getElementById('content').innerHTML = `<div class="loading">⚠️ network error: ${err.message}</div>`;
+            document.getElementById('content').innerHTML = `<div class="loading">⚠️ error: ${err.message}</div>`;
         }
     }
     function renderCards(configs) {
         if (!configs.length) {
-            document.getElementById('content').innerHTML = '<div class="loading">😞 no configs.</div>';
+            document.getElementById('content').innerHTML = '<div class="loading">😞 no configs yet. run GitHub Action manually.</div>';
             return;
         }
         let html = '<div class="config-grid">';
@@ -170,14 +185,18 @@
         });
     }
     function getFlag(country) {
-        const map = { 'Singapore':'🇸🇬','Pakistan':'🇵🇰','Germany':'🇩🇪','United States':'🇺🇸','Canada':'🇨🇦','United Kingdom':'🇬🇧','France':'🇫🇷','Netherlands':'🇳🇱','Japan':'🇯🇵','India':'🇮🇳','Brazil':'🇧🇷','Russia':'🇷🇺','Australia':'🇦🇺' };
+        const map = {
+            'Singapore':'🇸🇬','Pakistan':'🇵🇰','India':'🇮🇳','UAE':'🇦🇪','Saudi Arabia':'🇸🇦','Oman':'🇴🇲',
+            'Germany':'🇩🇪','Netherlands':'🇳🇱','France':'🇫🇷','Japan':'🇯🇵','United States':'🇺🇸',
+            'Canada':'🇨🇦','United Kingdom':'🇬🇧','Brazil':'🇧🇷','Russia':'🇷🇺','Australia':'🇦🇺'
+        };
         return map[country] || '🏳️';
     }
     function populateCountries(configs) {
-        const countries = [...new Set(configs.map(c => c.country))];
+        const countries = [...new Set(configs.map(c => c.country))].sort();
         const select = document.getElementById('countryFilter');
         select.innerHTML = '<option value="all">🌍 ALL COUNTRIES</option>';
-        countries.sort().forEach(c => select.innerHTML += `<option value="${c}">${getFlag(c)} ${c}</option>`);
+        countries.forEach(c => select.innerHTML += `<option value="${c}">${getFlag(c)} ${c}</option>`);
     }
     function filterConfigs() {
         const country = document.getElementById('countryFilter').value;
