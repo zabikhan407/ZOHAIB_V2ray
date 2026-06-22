@@ -1,153 +1,87 @@
 {
-  "lastUpdated": "2026-06-22T14:29:23.464Z",
-  "total": 289,
+  "lastUpdated": "2026-06-22T18:42:34.216Z",
+  "total": 281,
   "configs": [
     {
-      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?encryption=none&security=tls&sni=BpB-expO--10RaYly4zY.EXPO.App&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=bpb-expo--10rayly4zy.expo.app&path=/eyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19?ed#🇸🇨 16 - SC - VLESS/WS/TLS/UTLS - 2053",
+      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?path=/eyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19?ed&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=bpb-expo--10rayly4zy.expo.app&fp=chrome&type=ws&allowInsecure=0&sni=BpB-expO--10RaYly4zY.EXPO.App#🇸🇨 19 - SC - VLESS/WS/TLS/UTLS - 2053",
       "ping": 2,
       "alive": true,
       "country": "Seychelles"
     },
     {
-      "config": "vless://29f6e546-e399-a594-5a33-10be32a87a7d@188.114.97.7:8443?path=/sync&security=tls&encryption=none&insecure=0&host=fragrant-unit-d662.mmammatrix770088.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fragrant-unit-d662.mmammatrix770088.workers.dev#🇺🇸 66 - US - VLESS/WS/TLS/UTLS - 8443",
+      "config": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#🇺🇸 37 - US - VLESS/WS/TLS/UTLS - 443",
       "ping": 2,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.203:2083?encryption=none&fp=chrome&host=fhfhfhf.kathykroger.workers.dev&path=/&security=tls&sni=fhfhfhf.kathykroger.workers.dev&type=ws#🇺🇸 87 - US - VLESS/WS/TLS/UTLS - 2083",
+      "config": "vless://3bad1d20-8601-49be-86a2-2141d21dec99@104.20.32.49:2083?path=/&security=tls&encryption=none&insecure=0&host=gentle-dream-6aa3.soh8khan13.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=gentle-dream-6aa3.soh8khan13.workers.dev#🇺🇸 191 - US - VLESS/WS/TLS/UTLS - 2083",
       "ping": 2,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?encryption=none&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyz&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#🇺🇸 282 - US - VLESS/WS/TLS - 443",
+      "config": "vless://59dd07bb-04ea-442b-8d9e-ac52b63e9010@104.21.52.77:443?path=/eyJqdW5rIjoiUkI0M1BUNkdOckQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=delicate-grass-7a09.hsuegdbxjdirfh.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=deliCaTe-graSS-7a09.hSueGdbxJDiRfh.WORKeRS.DEV#🇨🇦 272 - CA - VLESS/WS/TLS/UTLS - 443",
       "ping": 2,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://7c7c2a41-bf8c-4dcc-8cca-5e6776da616c@104.16.174.36:443?path=/ws?ed=2580&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=speed.thctech.ir&fp=chrome&type=ws&allowInsecure=0&sni=speed.thctech.ir#🇺🇸 311 - US - VLESS/WS/TLS/UTLS - 443",
+      "config": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.26.14.160:2083?encryption=none&fp=chrome&host=muddy-leaf-e8c4.alvlirm3636.workers.dev&path=/proxyip=45.150.108.59,80.178.58.56,185.162.127.54&security=tls&sni=muddy-leaf-e8c4.alvlirm3636.workers.dev&type=ws#🇺🇸 349 - US - VLESS/WS/TLS/UTLS - 2083",
       "ping": 2,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@162.159.44.7:2053?encryption=none&fp=chrome&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇺🇸 323 - US - VLESS/WS/TLS/UTLS - 2053",
-      "ping": 2,
-      "alive": true,
-      "country": "United States"
-    },
-    {
-      "config": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@154.197.64.127:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=tel-bobbyv2.alvlirm2023.workers.dev&path=/proxyip=147.90.26.66,31.56.48.183,51.91.248.253,104.252.30.243,51.91.248.99,51.91.249.22,51.91.251.37,173.212.218.109&security=tls&sni=tel-bobbyv2.alvlirm2023.workers.dev&type=ws#🇮🇳 327 - IN - VLESS/WS/TLS - 2087",
-      "ping": 2,
-      "alive": true,
-      "country": "United States"
-    },
-    {
-      "config": "vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@162.159.43.106:443?path=/V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast&security=tls&encryption=none&insecure=0&host=patient-hat-bd09.nabedioopp.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=patient-hat-bd09.nabedioopp.workers.dev#🇺🇸 484 - US - VLESS/WS/TLS/UTLS - 443",
+      "config": "vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&security=tls&sni=terazhediii.info&type=ws&host=terazhediii.info&path=/hdgrbws#🇨🇦 569 - CA - VLESS/WS/TLS - 443",
       "ping": 2,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#🇺🇸 526 - US - VLESS/WS/TLS - 443",
+      "config": "vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@104.17.148.22:2083?allowInsecure=1&encryption=none&host=yousef.varzesh.dpdns.org&path=/&security=tls&sni=yousef.varzesh.dpdns.org&type=ws#🇺🇸 593 - US - VLESS/WS/TLS - 2083",
       "ping": 2,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?encryption=none&security=tls&sni=octopusss5.info&type=ws&host=octopusss5.info&path=/udfyfws#🇺🇸 543 - US - VLESS/WS/TLS - 443",
+      "config": "vless://e6b59d15-364c-4025-899a-84efa291d651@172.67.213.218:2096?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=red-surf-2007.matriska.workers.dev&path=/eyJqdW5rIjoiYWNoMkxHaUVYIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&sni=REd-suRf-2007.MatriSkA.wOrkeRs.DeV&type=ws#🇨🇦 641 - CA - VLESS/WS/TLS/UTLS - 2096",
       "ping": 2,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.47.45:2083?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=wk1.f1w.de5.net&path=/&security=tls&sni=wk1.f1w.de5.net&type=ws#🇺🇸 592 - US - VLESS/WS/TLS/UTLS - 2083",
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.41.190:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 665 - US - VLESS/WS/TLS/UTLS - 443",
       "ping": 2,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://e3089afa-1e51-40c5-9f33-88ea664a67de@104.27.14.95:443?path=/eyJqdW5rIjoiWnVDTzNXbmEzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=DaYiJoon.mbs-SAteHi.WorkeRs.DeV#🇺🇸 612 - US - VLESS/WS/TLS - 443",
-      "ping": 2,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.25.173:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 638 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 2,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.98:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 643 - US - VLESS/WS/TLS - 443",
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?allowInsecure=1&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 679 - US - VLESS/WS/TLS/UTLS - 443",
       "ping": 2,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.16.72.162:8443?encryption=none&security=tls&sni=srv37.hamiibar.com&type=ws&host=srv37.hamiibar.com&path=/#🇺🇸 669 - US - VLESS/WS/TLS - 8443",
+      "config": "vless://f12a5e31-05b8-4520-b3a4-e9da1f08ceb6@172.67.111.141:2087?path=/&security=tls&encryption=none&insecure=0&host=chandeht4.newappdominfastlogin4.com&fp=chrome&type=ws&allowInsecure=0&sni=chandeht4.newappdominfastlogin4.com#🇺🇸 693 - US - VLESS/WS/TLS/UTLS - 2087",
       "ping": 2,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@104.16.174.121:443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0#🇺🇸 62 - US - Trojan/WS/TLS - 443",
+      "config": "trojan://humanity@104.18.16.56:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#🇺🇸 83 - US - Trojan/WS/TLS - 443",
       "ping": 2,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@104.18.13.149:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=1&fp=chrome#🇺🇸 76 - US - Trojan/WS/TLS/UTLS - 443",
+      "config": "trojan://humanity@104.19.208.184:443?host=www.multiplydose.com&path=/%2Fassignment&sni=www.multiplydose.com&type=ws#🇨🇦 88 - CA - Trojan/WS/TLS - 443",
       "ping": 2,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@104.21.40.34:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 91 - US - Trojan/WS/TLS - 443",
-      "ping": 2,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@172.64.155.209:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#🇺🇸 105 - US - Trojan/WS/TLS - 443",
-      "ping": 2,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@198.62.62.23:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸 117 - US - Trojan/WS/TLS - 443",
-      "ping": 2,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://ppmk@104.18.32.47:8443?allowInsecure=1&alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=flat-firefly-6022.rixewi3168.workers.dev&path=/&sni=flat-firefly-6022.rixewi3168.workers.dev&type=ws#🇺🇸 162 - US - Trojan/WS/TLS/UTLS - 8443",
-      "ping": 2,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=t02.tzteam.online&fp=firefox&type=ws&allowInsecure=0&sni=t02.tzteam.online#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%F0%9F%87%AC%F0%9F%87%A7",
-      "ping": 2,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?path=%2FeyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=bpb-expo--10rayly4zy.expo.app&fp=chrome&type=ws&allowInsecure=0&sni=BpB-expO--10RaYly4zY.EXPO.App#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%F0%9F%87%B3%F0%9F%87%B1",
-      "ping": 2,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇸🇬",
-      "ping": 2,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?type=ws&host=vms.lifetime59.workers.dev&path=/#🇸🇬",
+      "config": "trojan://humanity@172.64.147.166:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 101 - US - Trojan/WS/TLS - 443",
       "ping": 2,
       "alive": true,
       "country": "Unknown"
@@ -159,271 +93,397 @@
       "country": "Unknown"
     },
     {
-      "config": "vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&type=ws&security=tls&path=%2Fhdgrbws&host=terazhediii.info&sni=terazhediii.info&fp=chrome&insecure=0&allowInsecure=0#🇫🇷",
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#👁️‍🗨️",
       "ping": 2,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://00e94078-bb1e-49aa-8567-e1b3b2843150@172.67.195.229:443?allowInsecure=1&encryption=none&fp=chrome&host=rapid-hat-441d.platovpn.workers.dev&path=/&security=tls&sni=rapid-hat-441d.platovpn.workers.dev&type=ws#🇺🇸 12 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 3,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.17.121.98:443?encryption=none&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#🇺🇸 29 - US - VLESS/WS/TLS - 443",
-      "ping": 3,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?encryption=none&host=vangoghhh.info&path=/rdfgtws&security=tls&sni=vangoghhh.info&type=ws#🇺🇸 44 - US - VLESS/WS/TLS - 443",
-      "ping": 3,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://5501b359-cd6c-431f-b478-f9ded18e4d6a@188.114.97.6:2053?path=/eyJqdW5rIjoiZzdoR3kxczdkcUxmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&encryption=none&insecure=0&host=wandering-field-030c.hsusudjfifjdhxccv.workers.dev&type=ws&allowInsecure=0&sni=WAnDERINg-FIelD-030c.HSuSudJFifjDHxCCv.WorkeRS.Dev#🇺🇸 257 - US - VLESS/WS/TLS - 2053",
-      "ping": 3,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://6cd78ec7-b715-471c-92b4-0c3842caea4b@104.25.118.238:80?type=ws&host=billowing-cloud-d339.sospanel.workers.dev&path=/eyJqdW5rIjoiOFRwTjlPWHgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560#🇺🇸 289 - US - VLESS/WS - 80",
-      "ping": 3,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@94.140.0.255:443?encryption=none&security=tls&sni=mozconfigs.mohammadaz2sub.ir&type=ws&host=mozconfigs.mohammadaz2sub.ir&path=/ws?ed=2048#🇦🇪 306 - AE - VLESS/WS/TLS - 443",
-      "ping": 3,
-      "alive": true,
-      "country": "United Arab Emirates"
-    },
-    {
-      "config": "vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@108.162.192.75:443?path=/rsedgws&security=tls&encryption=none&host=shegeftihaaa.net&fp=chrome&allowinsecure=0&type=ws&sni=shegeftihaaa.net#🇺🇸 318 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 3,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?encryption=none&fp=chrome&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#🇺🇸 541 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 3,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://e1ea855f-d0c2-5ed2-a454-294bb73c0cee@104.16.72.70:8443?encryption=none&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&path=/ZoRoVpn&security=tls&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com&type=ws#🇺🇸 609 - US - VLESS/WS/TLS - 8443",
-      "ping": 3,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.47.19:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 644 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 3,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.158:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=ios&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/?TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy?ed=512#🇸🇨 655 - SC - VLESS/WS/TLS/UTLS - 443",
-      "ping": 3,
+      "config": "vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F&security=none&type=ws#🇨🇦",
+      "ping": 2,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@104.17.131.88:443?fp=chrome&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 73 - US - Trojan/WS/TLS/UTLS - 443",
-      "ping": 3,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@104.18.152.225:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸 77 - US - Trojan/WS/TLS - 443",
-      "ping": 3,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@172.66.44.211:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 107 - US - Trojan/WS/TLS - 443",
-      "ping": 3,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@172.66.47.69:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 108 - US - Trojan/WS/TLS - 443",
-      "ping": 3,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@8.6.112.0:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#🇺🇸 147 - US - Trojan/WS/TLS - 443",
-      "ping": 3,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦",
-      "ping": 3,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?path=%2FeyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=bpb-expo--10rayly4zy.expo.app&fp=chrome&type=ws&allowInsecure=0&sni=BpB-expO--10RaYly4zY.EXPO.App#%F0%9F%87%B3%F0%9F%87%B1%20%40VConfing",
-      "ping": 3,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80?path=%2Fvless&security=none&encryption=none&host=education.panelvps.eu.org&type=ws#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%F0%9F%87%B8%F0%9F%87%AC",
-      "ping": 3,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#👁️‍🗨️",
-      "ping": 3,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://356c9372-6049-c02c-3460-b021014693c2@172.64.155.209:443?path=/msad&security=tls&encryption=none&insecure=0&host=cold-cake-60bd.javascriptirir.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=cold-cake-60bd.javascriptirir.workers.dev#🇺🇸 82 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@173.245.58.75:443?path=/poiuyws&security=tls&encryption=none&host=amoosamiii.net&fp=chrome&allowinsecure=0&type=ws&sni=amoosamiii.net#🇺🇸 248 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@188.114.97.5:443?encryption=none&security=tls&sni=mozconfigs.mohammadaz2sub.ir&type=ws&host=mozconfigs.mohammadaz2sub.ir&path=/ws?ed=2048#🇺🇸 305 - US - VLESS/WS/TLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://8cf1e524-ce8c-4c63-8440-3ecd687f5e8d@173.245.59.14:2053?encryption=none&fp=chrome&host=still-lake-3cf7.dls2026.workers.dev&path=/&security=tls&sni=still-lake-3cf7.dls2026.workers.dev&type=ws#🇺🇸 367 - US - VLESS/WS/TLS/UTLS - 2053",
-      "ping": 4,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#🇺🇸 525 - US - VLESS/WS/TLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&security=tls&sni=terazhediii.info&type=ws&host=terazhediii.info&path=/hdgrbws#🇺🇸 527 - US - VLESS/WS/TLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?encryption=none&fp=chrome&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#🇺🇸 544 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://e1ea855f-d0c2-5ed2-a454-294bb73c0cee@104.16.72.70:8443?encryption=none&security=tls&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com&type=ws&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&path=/ZoRoVpn#🇺🇸 610 - US - VLESS/WS/TLS - 8443",
-      "ping": 4,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?allowInsecure=1&encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/fp=random&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸 615 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "United States"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.41.190:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 639 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.47.19:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 645 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.146.66:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 653 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?path=/&security=tls&encryption=none&host=srv03.perfectbulk.info&fp=chrome&type=ws&sni=srv03.perfectbulk.info#🇸🇨 673 - SC - VLESS/WS/TLS/UTLS - 8443",
-      "ping": 4,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸 61 - US - Trojan/WS/TLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸 69 - US - Trojan/WS/TLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@104.18.16.56:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#🇺🇸 81 - US - Trojan/WS/TLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@172.64.147.166:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 100 - US - Trojan/WS/TLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 102 - US - Trojan/WS/TLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇪🇸 110 - ES - Trojan/WS/TLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#🇺🇸 115 - US - Trojan/WS/TLS/UTLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@199.181.197.176:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&type=ws&host=www.calmloud.com&path=/assignment#🇺🇸 122 - US - Trojan/WS/TLS - 443",
-      "ping": 4,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http/1.1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇸🇨 143 - SC - Trojan/WS/TLS - 443",
-      "ping": 4,
+      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦",
+      "ping": 2,
       "alive": true,
       "country": "Unknown"
     },
     {
       "config": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&insecure=0&security=tls&type=ws&sni=vangoghhh.info&allowInsecure=0#%E2%9A%A1%EF%B8%8FTel%20%3A%20%40SERVER_DNS",
-      "ping": 4,
+      "ping": 2,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?encryption=none&type=ws&security=tls&path=/eyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19?ed&host=bpb-expo--10rayly4zy.expo.app&sni=BpB-expO--10RaYly4zY.EXPO.App&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#🇸🇨 18 - SC - VLESS/WS/TLS/UTLS - 2053",
+      "ping": 3,
+      "alive": true,
+      "country": "Seychelles"
+    },
+    {
+      "config": "vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&host=octopusss.net&type=ws&sni=octopusss.net#🇺🇸 22 - US - VLESS/WS/TLS - 443",
+      "ping": 3,
+      "alive": true,
+      "country": "United States"
+    },
+    {
+      "config": "vless://1244a6b2-70e2-41fd-8997-97eebe3d2c61@198.41.223.229:443?encryption=none&fp=chrome&host=accv9.mmhz9.workers.dev&path=/&security=tls&sni=accv9.mmhz9.workers.dev&type=ws#🇺🇸 30 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 3,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://29f6e546-e399-a594-5a33-10be32a87a7d@188.114.97.7:8443?path=/sync&security=tls&encryption=none&insecure=0&host=fragrant-unit-d662.mmammatrix770088.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fragrant-unit-d662.mmammatrix770088.workers.dev#🇺🇸 52 - US - VLESS/WS/TLS/UTLS - 8443",
+      "ping": 3,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@172.64.32.75:443?path=/poiuyws&security=tls&encryption=none&host=amoosamiii.net&type=ws&sni=amoosamiii.net#🇨🇦 254 - CA - VLESS/WS/TLS - 443",
+      "ping": 3,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?encryption=none&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyzfp=chrome#🇺🇸 289 - US - VLESS/WS/TLS - 443",
+      "ping": 3,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://7c7c2a41-bf8c-4dcc-8cca-5e6776da616c@45.130.125.112:443?path=/ws?ed=2580&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=speed.thctech.ir&fp=chrome&type=ws&allowInsecure=0&sni=speed.thctech.ir#🇸🇨 327 - SC - VLESS/WS/TLS/UTLS - 443",
+      "ping": 3,
+      "alive": true,
+      "country": "Seychelles"
+    },
+    {
+      "config": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@156.243.83.52:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=weathered-brook-18b6.alvlirm741.workers.dev&path=/proxyip=212.193.35.100,185.218.0.16,83.147.255.88,138.124.255.49,185.147.26.135,79.174.80.62,185.72.145.79,82.146.38.33&security=tls&sni=weathered-brook-18b6.alvlirm741.workers.dev&type=ws#🇵🇹 352 - PT - VLESS/WS/TLS - 8443",
+      "ping": 3,
+      "alive": true,
+      "country": "Portugal"
+    },
+    {
+      "config": "vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@162.159.43.106:443?path=/V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast&security=tls&encryption=none&insecure=0&host=patient-hat-bd09.nabedioopp.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=patient-hat-bd09.nabedioopp.workers.dev#🇨🇦 508 - CA - VLESS/WS/TLS/UTLS - 443",
+      "ping": 3,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#🇺🇸 566 - US - VLESS/WS/TLS - 443",
+      "ping": 3,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?encryption=none&fp=chrome&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#🇺🇸 579 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 3,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.47.45:2083?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=wk1.f1w.de5.net&path=/&security=tls&sni=wk1.f1w.de5.net&type=ws#🇨🇦 612 - CA - VLESS/WS/TLS/UTLS - 2083",
+      "ping": 3,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://e3089afa-1e51-40c5-9f33-88ea664a67de@104.27.14.95:443?path=/eyJqdW5rIjoiWnVDTzNXbmEzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=DaYiJoon.mbs-SAteHi.WorkeRs.DeV#🇺🇸 633 - US - VLESS/WS/TLS - 443",
+      "ping": 3,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?type=ws&security=tls&host=po.fastbrokencompony.com&sni=po.fastbrokencompony.com&path=/&encryption=none#🇸🇨 645 - SC - VLESS/WS/TLS - 2053",
+      "ping": 3,
+      "alive": true,
+      "country": "Seychelles"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.158:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/#🇨🇦 675 - CA - VLESS/WS/TLS - 443",
+      "ping": 3,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.16.72.162:8443?encryption=none&security=tls&sni=srv37.hamiibar.com&type=ws&host=srv37.hamiibar.com&path=/#🇺🇸 710 - US - VLESS/WS/TLS - 8443",
+      "ping": 3,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇨🇦 66 - CA - Trojan/WS/TLS - 443",
+      "ping": 3,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@104.16.62.25:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#🇨🇦 67 - CA - Trojan/WS/TLS - 443",
+      "ping": 3,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@104.17.131.88:443?fp=chrome&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 74 - US - Trojan/WS/TLS/UTLS - 443",
+      "ping": 3,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@216.24.57.7:443?alpn=http/1.1&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸 136 - US - Trojan/WS/TLS - 443",
+      "ping": 3,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?path=%2FeyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=bpb-expo--10rayly4zy.expo.app&fp=chrome&type=ws&sni=BpB-expO--10RaYly4zY.EXPO.App#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
+      "ping": 3,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://5789b16b-91c0-4324-a5b6-d761a52c585a@188.114.97.6:2083?path=%2F&security=tls&encryption=none&insecure=0&host=ez-7b9ef1.amirmohammad139318.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-7b9ef1.amirmohammad139318.workers.dev#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%E2%9D%A4",
+      "ping": 3,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://f12a5e31-05b8-4520-b3a4-e9da1f08ceb6@104.18.32.47:2087?path=%2F&security=tls&encryption=none&insecure=0&host=chandeht4.newappdominfastlogin4.com&fp=chrome&type=ws&allowInsecure=0&sni=chandeht4.newappdominfastlogin4.com#%40V2ray_Alpha%F0%9F%8D%84%203",
+      "ping": 3,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇸🇬",
+      "ping": 3,
       "alive": true,
       "country": "Unknown"
     },
     {
       "config": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#%F0%9F%87%A9%F0%9F%87%AA%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn",
+      "ping": 3,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls#🇸🇬",
+      "ping": 3,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?encryption=none&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&type=ws#🇺🇸 21 - US - VLESS/WS/TLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "United States"
+    },
+    {
+      "config": "vless://356c9372-6049-c02c-3460-b021014693c2@172.64.155.209:443?path=/msad&security=tls&encryption=none&insecure=0&host=cold-cake-60bd.javascriptirir.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=cold-cake-60bd.javascriptirir.workers.dev#🇺🇸 63 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.43:2083?encryption=none&fp=chrome&host=fhfhfhf.kathykroger.workers.dev&path=/&security=tls&sni=fhfhfhf.kathykroger.workers.dev&type=ws#🇺🇸 69 - US - VLESS/WS/TLS/UTLS - 2083",
+      "ping": 4,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://5501b359-cd6c-431f-b478-f9ded18e4d6a@188.114.97.6:2053?path=/eyJqdW5rIjoiZzdoR3kxczdkcUxmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&encryption=none&insecure=0&host=wandering-field-030c.hsusudjfifjdhxccv.workers.dev&type=ws&allowInsecure=0&sni=WAnDERINg-FIelD-030c.HSuSudJFifjDHxCCv.WorkeRS.Dev#🇺🇸 266 - US - VLESS/WS/TLS - 2053",
+      "ping": 4,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.19.67:443?encryption=none&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyz&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#🇺🇸 291 - US - VLESS/WS/TLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://6cd78ec7-b715-471c-92b4-0c3842caea4b@104.25.118.238:80?type=ws&host=billowing-cloud-d339.sospanel.workers.dev&path=/eyJqdW5rIjoiOFRwTjlPWHgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560#🇨🇦 309 - CA - VLESS/WS - 80",
+      "ping": 4,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://7c7c2a41-bf8c-4dcc-8cca-5e6776da616c@104.16.174.36:443?path=/ws?ed=2580&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=speed.thctech.ir&fp=chrome&type=ws&allowInsecure=0&sni=speed.thctech.ir#🇺🇸 325 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.67.74.2:443?encryption=none&security=tls&sni=shegeftihaaa.net&type=ws&host=shegeftihaaa.net&path=/rsedgws#🇺🇸 334 - US - VLESS/WS/TLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@147.185.161.152:2087?encryption=none&fp=chrome&host=weathered-brook-18b6.alvlirm741.workers.dev&path=/proxyip=212.193.35.100,185.218.0.16,83.147.255.88,138.124.255.49,185.147.26.135,79.174.80.62,185.72.145.79,82.146.38.33&security=tls&sni=weathered-brook-18b6.alvlirm741.workers.dev&type=ws#🇺🇸 350 - US - VLESS/WS/TLS/UTLS - 2087",
+      "ping": 4,
+      "alive": true,
+      "country": "United States"
+    },
+    {
+      "config": "vless://8cf1e524-ce8c-4c63-8440-3ecd687f5e8d@173.245.59.14:2053?encryption=none&fp=chrome&host=still-lake-3cf7.dls2026.workers.dev&path=/&security=tls&sni=still-lake-3cf7.dls2026.workers.dev&type=ws#🇺🇸 382 - US - VLESS/WS/TLS/UTLS - 2053",
+      "ping": 4,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://EarnMoneyarz-ZoRoVpn@104.16.72.70:8443?encryption=none&type=ws&security=tls&path=/ZoRoVpn&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#🇨🇦 512 - CA - VLESS/WS/TLS/UTLS - 8443",
+      "ping": 4,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80?path=/vless&security=none&encryption=none&host=education.panelvps.eu.org&type=ws#🇨🇦 534 - CA - VLESS/WS - 80",
+      "ping": 4,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?encryption=none&security=tls&sni=octopusss5.info&type=ws&host=octopusss5.info&path=/udfyfws#🇺🇸 581 - US - VLESS/WS/TLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://e1ea855f-d0c2-5ed2-a454-294bb73c0cee@104.16.72.70:8443?encryption=none&security=tls&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com&type=ws&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&path=/ZoRoVpn#🇨🇦 631 - CA - VLESS/WS/TLS - 8443",
+      "ping": 4,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.60.231:443?allowInsecure=1&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸 637 - US - VLESS/WS/TLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.25.173:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 663 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.144.82:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 674 - US - VLESS/WS/TLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.146.66:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 678 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.158:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=ios&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/?TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy?ed=512#🇸🇨 680 - SC - VLESS/WS/TLS/UTLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Seychelles"
+    },
+    {
+      "config": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.17.108.69:8443?path=/&security=tls&encryption=none&insecure=0&host=srv14.hamiibar.com&fp=chrome&type=ws&allowInsecure=0&sni=srv14.hamiibar.com#🇺🇸 712 - US - VLESS/WS/TLS/UTLS - 8443",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇨🇦 61 - CA - Trojan/WS/TLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@104.16.174.36:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸 65 - US - Trojan/WS/TLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@104.17.131.88:443?fp=chrome&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 73 - US - Trojan/WS/TLS/UTLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@104.18.152.97:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸 82 - US - Trojan/WS/TLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@141.193.213.21:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=0#🇺🇸 97 - US - Trojan/WS/TLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@172.66.44.211:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 109 - US - Trojan/WS/TLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸 112 - US - Trojan/WS/TLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#🇺🇸 117 - US - Trojan/WS/TLS/UTLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@199.181.197.176:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&type=ws&host=www.calmloud.com&path=/assignment#🇺🇸 124 - US - Trojan/WS/TLS - 443",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://ppmk@104.18.32.47:8443?allowInsecure=1&alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=flat-firefly-6022.rixewi3168.workers.dev&path=/&sni=flat-firefly-6022.rixewi3168.workers.dev&type=ws#🇺🇸 163 - US - Trojan/WS/TLS/UTLS - 8443",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?path=%2FeyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=bpb-expo--10rayly4zy.expo.app&fp=chrome&type=ws&allowInsecure=0&sni=BpB-expO--10RaYly4zY.EXPO.App#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%F0%9F%87%B3%F0%9F%87%B1",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇩🇪",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://f12a5e31-05b8-4520-b3a4-e9da1f08ceb6@104.17.147.22:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newq.newappdominfastlogin4.com&fp=chrome&type=ws&allowInsecure=0&sni=newq.newappdominfastlogin4.com#%40V2ray_Alpha%F0%9F%8C%82%202",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.12.41:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇸🇬",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?allowInsecure=0&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#🇩🇪",
+      "ping": 4,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@156.243.83.52:8443/?type=ws&encryption=none&flow=&host=weathered-brook-18b6.alvlirm741.workers.dev&path=%2Fproxyip%3D212.193.35.100%2C185.218.0.16%2C83.147.255.88%2C138.124.255.49%2C185.147.26.135%2C79.174.80.62%2C185.72.145.79%2C82.146.38.33&security=tls&sni=weathered-brook-18b6.alvlirm741.workers.dev#👁️‍🗨️",
       "ping": 4,
       "alive": true,
       "country": "Unknown"
@@ -435,523 +495,451 @@
       "country": "Unknown"
     },
     {
-      "config": "vless://5789b16b-91c0-4324-a5b6-d761a52c585a@188.114.97.6:2095?path=%2F&security=none&encryption=none&host=ez-7b9ef1.amirmohammad139318.workers.dev&fp=chrome&type=ws&sni=ez-7b9ef1.amirmohammad139318.workers.dev#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%E2%9D%A4",
+      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?path=%2FeyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=bpb-expo--10rayly4zy.expo.app&fp=chrome&type=ws&allowInsecure=0&sni=BpB-expO--10RaYly4zY.EXPO.App#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%F0%9F%87%B3%F0%9F%87%B1",
       "ping": 4,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=alphacdn.alphashops.shop&fp=chrome&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#🏳️",
+      "config": "vless://b991b390-dd0f-4061-9150-bee0cb467bce@162.251.82.240:443?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&host=opu-ao6.pages.dev&fp=chrome&allowinsecure=0&type=ws&sni=opu-ao6.pages.dev#🇩🇪All³",
       "ping": 4,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#👁️‍🗨️",
+      "config": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.149.209:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🇨🇦",
       "ping": 4,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.130.125.126:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=1&host=vangoghhh.info&type=ws&allowInsecure=1&sni=vangoghhh.info#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%F0%9F%87%A9%F0%9F%87%AA",
+      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?path=%2FeyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=bpb-expo--10rayly4zy.expo.app&fp=chrome&type=ws&allowInsecure=0&sni=BpB-expO--10RaYly4zY.EXPO.App#%E2%80%8E%F0%9F%9B%B0%EF%B8%8F%20%40nitruStore%2047",
       "ping": 4,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:443?security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🇸🇬",
-      "ping": 4,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?path=/eyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19?ed&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=bpb-expo--10rayly4zy.expo.app&fp=chrome&type=ws&allowInsecure=0&sni=BpB-expO--10RaYly4zY.EXPO.App#🇸🇨 19 - SC - VLESS/WS/TLS/UTLS - 2053",
+      "config": "vless://1244a6b2-70e2-41fd-8997-97eebe3d2c61@198.41.223.229:443?encryption=none&fp=chrome&host=accv9.mmhz9.workers.dev&path=/&security=tls&sni=accv9.mmhz9.workers.dev&type=ws#🇺🇸 31 - US - VLESS/WS/TLS/UTLS - 443",
       "ping": 5,
       "alive": true,
-      "country": "Seychelles"
+      "country": "Canada"
     },
     {
-      "config": "vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?encryption=none&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&type=ws#🇺🇸 21 - US - VLESS/WS/TLS - 443",
+      "config": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?encryption=none&host=vangoghhh.info&path=/rdfgtws&security=tls&sni=vangoghhh.info&type=ws#🇺🇸 36 - US - VLESS/WS/TLS - 443",
+      "ping": 5,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.203:2083?encryption=none&fp=chrome&host=fhfhfhf.kathykroger.workers.dev&path=/&security=tls&sni=fhfhfhf.kathykroger.workers.dev&type=ws#🇺🇸 68 - US - VLESS/WS/TLS/UTLS - 2083",
+      "ping": 5,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?encryption=none&host=amoosamiii.net&path=/poiuyws&security=tls&sni=amoosamiii.net&type=ws#🇺🇸 257 - US - VLESS/WS/TLS - 443",
+      "ping": 5,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=amoosamiii.net&type=ws&host=amoosamiii.net&path=/poiuyws#🇺🇸 258 - US - VLESS/WS/TLS - 443",
+      "ping": 5,
+      "alive": true,
+      "country": "United Kingdom"
+    },
+    {
+      "config": "vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@188.114.97.5:443?encryption=none&security=tls&sni=mozconfigs.mohammadaz2sub.ir&type=ws&host=mozconfigs.mohammadaz2sub.ir&path=/ws?ed=2048#🇺🇸 320 - US - VLESS/WS/TLS - 443",
+      "ping": 5,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@154.197.64.127:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=tel-bobbyv2.alvlirm2023.workers.dev&path=/proxyip=147.90.26.66,31.56.48.183,51.91.248.253,104.252.30.243,51.91.248.99,51.91.249.22,51.91.251.37,173.212.218.109&security=tls&sni=tel-bobbyv2.alvlirm2023.workers.dev&type=ws#🇮🇳 351 - IN - VLESS/WS/TLS - 2087",
       "ping": 5,
       "alive": true,
       "country": "United States"
     },
     {
-      "config": "vless://0779dc74-2464-461f-90ef-874e4cae7fae@188.114.96.3:2053?path=/eyJqdW5rIjoiUHQ4YzBma3IxczlPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=weathered-math-1f8b.amiralighasempor010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=WeaTHeREd-MATH-1f8B.aMIRAligHasEMPoR010.WOrkERs.dEv#🇺🇸 24 - US - VLESS/WS/TLS/UTLS - 2053",
+      "config": "vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@104.16.75.224:443?path=/page=2&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-3.ariyuz.org#🇺🇸 572 - US - VLESS/WS/TLS - 443",
       "ping": 5,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://1244a6b2-70e2-41fd-8997-97eebe3d2c61@198.41.223.229:443?encryption=none&fp=chrome&host=accv9.mmhz9.workers.dev&path=/&security=tls&sni=accv9.mmhz9.workers.dev&type=ws#🇺🇸 36 - US - VLESS/WS/TLS/UTLS - 443",
+      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?encryption=none&fp=chrome&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#🇺🇸 580 - US - VLESS/WS/TLS/UTLS - 443",
       "ping": 5,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://362a79a2-ce89-8d2d-355c-f1f5071a445f@188.114.96.7:8443?path=/sync&security=tls&encryption=none&insecure=0&host=fragrant-unit-d662.mmammatrix770088.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fragrant-unit-d662.mmammatrix770088.workers.dev#🇺🇸 85 - US - VLESS/WS/TLS/UTLS - 8443",
+      "config": "vless://e1ea855f-d0c2-5ed2-a454-294bb73c0cee@104.16.72.70:8443?path=/ZoRoVpn&security=tls&encryption=none&insecure=0&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&type=ws&allowInsecure=0&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com#🇨🇦 632 - CA - VLESS/WS/TLS - 8443",
       "ping": 5,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.43:2083?encryption=none&fp=chrome&host=fhfhfhf.kathykroger.workers.dev&path=/&security=tls&sni=fhfhfhf.kathykroger.workers.dev&type=ws#🇺🇸 88 - US - VLESS/WS/TLS/UTLS - 2083",
+      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.16.72.70:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🇨🇦 635 - CA - VLESS/WS/TLS - 443",
       "ping": 5,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://59dd07bb-04ea-442b-8d9e-ac52b63e9010@104.21.52.77:443?path=/eyJqdW5rIjoiUkI0M1BUNkdOckQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=delicate-grass-7a09.hsuegdbxjdirfh.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=deliCaTe-graSS-7a09.hSueGdbxJDiRfh.WORKeRS.DEV#🇺🇸 262 - US - VLESS/WS/TLS/UTLS - 443",
+      "config": "vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=/#🇸🇨 644 - SC - VLESS/WS/TLS - 2053",
+      "ping": 5,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.98:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 668 - US - VLESS/WS/TLS - 443",
+      "ping": 5,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.47.19:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 670 - US - VLESS/WS/TLS/UTLS - 443",
       "ping": 5,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.19.67:443?encryption=none&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyz&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#🇺🇸 283 - US - VLESS/WS/TLS - 443",
-      "ping": 5,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://7c7c2a41-bf8c-4dcc-8cca-5e6776da616c@104.16.174.36:443?path=/ws?ed=2580&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=speed.thctech.ir&fp=chrome&type=ws&allowInsecure=0&sni=speed.thctech.ir#🇺🇸 310 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 5,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.15.137:443?encryption=none&security=tls&sni=shegeftihaaa.net&type=ws&host=shegeftihaaa.net&path=/rsedgws#🇺🇸 317 - US - VLESS/WS/TLS - 443",
-      "ping": 5,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.67.74.2:443?encryption=none&security=tls&sni=shegeftihaaa.net&type=ws&host=shegeftihaaa.net&path=/rsedgws#🇺🇸 319 - US - VLESS/WS/TLS - 443",
-      "ping": 5,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.26.14.160:2083?encryption=none&fp=chrome&host=muddy-leaf-e8c4.alvlirm3636.workers.dev&path=/proxyip=45.150.108.59,80.178.58.56,185.162.127.54&security=tls&sni=muddy-leaf-e8c4.alvlirm3636.workers.dev&type=ws#🇺🇸 325 - US - VLESS/WS/TLS/UTLS - 2083",
-      "ping": 5,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@156.243.83.52:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=weathered-brook-18b6.alvlirm741.workers.dev&path=/proxyip=212.193.35.100,185.218.0.16,83.147.255.88,138.124.255.49,185.147.26.135,79.174.80.62,185.72.145.79,82.146.38.33&security=tls&sni=weathered-brook-18b6.alvlirm741.workers.dev&type=ws#🇵🇹 328 - PT - VLESS/WS/TLS - 8443",
-      "ping": 5,
-      "alive": true,
-      "country": "Portugal"
-    },
-    {
-      "config": "vless://EarnMoneyarz-ZoRoVpn@104.16.72.70:8443?encryption=none&type=ws&security=tls&path=/ZoRoVpn&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#🇺🇸 488 - US - VLESS/WS/TLS/UTLS - 8443",
-      "ping": 5,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80?path=/vless&security=none&encryption=none&host=education.panelvps.eu.org&type=ws#🇺🇸 502 - US - VLESS/WS - 80",
-      "ping": 5,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws&security=tls&encryption=none&host=terazhediii.info&fp=chrome&type=ws&sni=terazhediii.info#🇺🇸 529 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 5,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?encryption=none&fp=chrome&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#🇺🇸 540 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 5,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://e6b59d15-364c-4025-899a-84efa291d651@172.67.213.218:2096?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=red-surf-2007.matriska.workers.dev&path=/eyJqdW5rIjoiYWNoMkxHaUVYIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&sni=REd-suRf-2007.MatriSkA.wOrkeRs.DeV&type=ws#🇺🇸 621 - US - VLESS/WS/TLS/UTLS - 2096",
-      "ping": 5,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?type=ws&security=tls&host=po.fastbrokencompony.com&sni=po.fastbrokencompony.com&path=/&encryption=none#🇸🇨 626 - SC - VLESS/WS/TLS - 2053",
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.158:443?path=/fp?ed=512&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=ios&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇸🇨 682 - SC - VLESS/WS/TLS/UTLS - 443",
       "ping": 5,
       "alive": true,
       "country": "Seychelles"
     },
     {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.26.4.60:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/#🇺🇸 646 - US - VLESS/WS/TLS - 443",
+      "config": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@188.114.97.6:8443?path=/&security=tls&encryption=none&insecure=0&host=srv71.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv71.perfectbulk.info#🇺🇸 713 - US - VLESS/WS/TLS/UTLS - 8443",
       "ping": 5,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?allowInsecure=1&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 654 - US - VLESS/WS/TLS/UTLS - 443",
+      "config": "vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@172.67.78.254:2083?path=/&security=tls&encryption=none&insecure=0&host=crimson-king-301d.nexoxnet.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=crimson-king-301d.nexoxnet.workers.dev#🇺🇸 727 - US - VLESS/WS/TLS/UTLS - 2083",
       "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?host=space.byu.id.yxls.eu.cc&path=/br-orcl&sni=space.byu.id.yxls.eu.cc&type=ws#🇺🇸 57 - US - Trojan/WS/TLS - 443",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?host=space.byu.id.yxls.eu.cc&path=/br-orcl&sni=space.byu.id.yxls.eu.cc&type=ws#🇺🇸 58 - US - Trojan/WS/TLS - 443",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@104.16.174.36:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸 65 - US - Trojan/WS/TLS - 443",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@104.17.131.88:443?fp=chrome&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 74 - US - Trojan/WS/TLS/UTLS - 443",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 75 - US - Trojan/WS/TLS - 443",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 83 - US - Trojan/WS/TLS - 443",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@162.159.193.202:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&type=ws&host=www.calmloud.com&path=/assignment#🇺🇸 97 - US - Trojan/WS/TLS - 443",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@216.24.57.7:443?alpn=http/1.1&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸 135 - US - Trojan/WS/TLS - 443",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@45.130.125.160:443?alpn=http/1.1&fp=chrome&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#🇸🇨 140 - SC - Trojan/WS/TLS/UTLS - 443",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?path=%2FeyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=bpb-expo--10rayly4zy.expo.app&fp=chrome&type=ws&sni=BpB-expO--10RaYly4zY.EXPO.App#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?path=%2FeyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=bpb-expo--10rayly4zy.expo.app&fp=chrome&type=ws&allowInsecure=0&sni=BpB-expO--10RaYly4zY.EXPO.App#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%F0%9F%87%B3%F0%9F%87%B1",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://8a4a1c56-4edb-4c00-9a54-52131884f8aa@chatgpt.com:443?encryption=none&security=tls&sni=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&fp=chrome&type=ws&host=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&path=%2FeyJqdW5rIjoid2p5c3FoMndheGhqMnpqZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D4945#%F0%9F%87%AE%F0%9F%87%B7@Letiranbreath",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=%2Fjdhfyws&security=tls&encryption=none&host=amooaliii.net&fp=chrome&type=ws&sni=amooaliii.net#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#🇨🇦",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls#🇸🇬",
-      "ping": 5,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://356c9372-6049-c02c-3460-b021014693c2@104.18.28.234:443?path=/msad&security=tls&encryption=none&insecure=0&host=cold-cake-60bd.javascriptirir.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=cold-cake-60bd.javascriptirir.workers.dev#🇺🇸 81 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 6,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?encryption=none&host=amoosamiii.net&path=/poiuyws&security=tls&sni=amoosamiii.net&type=ws#🇺🇸 249 - US - VLESS/WS/TLS - 443",
-      "ping": 6,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?encryption=none&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyz&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#🇺🇸 280 - US - VLESS/WS/TLS - 443",
-      "ping": 6,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=/hdgrbws&security=tls&encryption=none&host=terazhediii.info&type=ws&sni=terazhediii.info#🇺🇸 528 - US - VLESS/WS/TLS - 443",
-      "ping": 6,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://b991b390-dd0f-4061-9150-bee0cb467bce@104.238.68.240:443?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&encryption=none&insecure=0&host=opu-ao6.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=opu-ao6.pages.dev#🇺🇸 535 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 6,
-      "alive": true,
-      "country": "United States"
-    },
-    {
-      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.16.72.70:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🇺🇸 614 - US - VLESS/WS/TLS - 443",
-      "ping": 6,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.54:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 641 - US - VLESS/WS/TLS - 443",
-      "ping": 6,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.54:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/#🇺🇸 642 - US - VLESS/WS/TLS - 443",
-      "ping": 6,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.158:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=ios&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇸🇨 656 - SC - VLESS/WS/TLS/UTLS - 443",
-      "ping": 6,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.17.108.69:8443?encryption=none&security=tls&sni=srv14.hamiibar.com&type=ws&host=srv14.hamiibar.com&path=/#🇺🇸 670 - US - VLESS/WS/TLS - 8443",
-      "ping": 6,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@172.67.78.254:2083?path=/&security=tls&encryption=none&insecure=0&host=crimson-king-301d.nexoxnet.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=crimson-king-301d.nexoxnet.workers.dev#🇺🇸 700 - US - VLESS/WS/TLS/UTLS - 2083",
-      "ping": 6,
       "alive": true,
       "country": "Unknown"
     },
     {
       "config": "trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸 60 - US - Trojan/WS/TLS - 443",
-      "ping": 6,
+      "ping": 5,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@104.16.174.12:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#🇺🇸 64 - US - Trojan/WS/TLS - 443",
-      "ping": 6,
+      "config": "trojan://humanity@104.18.152.225:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸 77 - US - Trojan/WS/TLS - 443",
+      "ping": 5,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@104.18.152.97:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸 80 - US - Trojan/WS/TLS - 443",
-      "ping": 6,
+      "config": "trojan://humanity@172.64.147.166:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#🇺🇸 103 - US - Trojan/WS/TLS - 443",
+      "ping": 5,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@104.19.229.21:443?path=/assignment?L=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇺🇸 87 - US - Trojan/WS/TLS/UTLS - 443",
-      "ping": 6,
+      "config": "trojan://humanity@172.66.44.211:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 108 - US - Trojan/WS/TLS - 443",
+      "ping": 5,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@172.64.152.38:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#🇺🇸 104 - US - Trojan/WS/TLS - 443",
-      "ping": 6,
+      "config": "trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http/1.1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇸🇨 144 - SC - Trojan/WS/TLS - 443",
+      "ping": 5,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@188.114.96.3:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸 113 - US - Trojan/WS/TLS - 443",
-      "ping": 6,
+      "config": "trojan://humanity@66.81.247.155:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=0#🇺🇸 147 - US - Trojan/WS/TLS/UTLS - 443",
+      "ping": 5,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#🇺🇸 129 - US - Trojan/WS/TLS - 443",
-      "ping": 6,
+      "config": "vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=alphacdn.alphashops.shop&fp=chrome&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%F0%9F%87%B9%F0%9F%87%B7",
+      "ping": 5,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://8a4a1c56-4edb-4c00-9a54-52131884f8aa@chatgpt.com:443?encryption=none&security=tls&sni=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&fp=chrome&type=ws&host=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&path=%2FeyJqdW5rIjoid2p5c3FoMndheGhqMnpqZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D4945&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%228%22%2C%22length%22%3A%225%22%2C%22maxSplit%22%3A%22140%22%2C%22packets%22%3A%221-1%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%AE%F0%9F%87%B7@Letiranbreath-FRAG",
-      "ping": 6,
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇭🇰",
+      "ping": 5,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://5789b16b-91c0-4324-a5b6-d761a52c585a@188.114.97.6:2083?path=%2F&security=tls&encryption=none&insecure=0&host=ez-7b9ef1.amirmohammad139318.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-7b9ef1.amirmohammad139318.workers.dev#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%E2%9D%A4",
-      "ping": 6,
+      "config": "vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%F0%9F%87%AB%F0%9F%87%AE",
+      "ping": 5,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇩🇪",
-      "ping": 6,
+      "config": "vless://5789b16b-91c0-4324-a5b6-d761a52c585a@188.114.97.6:2095?path=%2F&security=none&encryption=none&host=ez-7b9ef1.amirmohammad139318.workers.dev&fp=chrome&type=ws&sni=ez-7b9ef1.amirmohammad139318.workers.dev#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%E2%9D%A4",
+      "ping": 5,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@156.243.83.52:8443/?type=ws&encryption=none&flow=&host=weathered-brook-18b6.alvlirm741.workers.dev&path=%2Fproxyip%3D212.193.35.100%2C185.218.0.16%2C83.147.255.88%2C138.124.255.49%2C185.147.26.135%2C79.174.80.62%2C185.72.145.79%2C82.146.38.33&security=tls&sni=weathered-brook-18b6.alvlirm741.workers.dev#👁️‍🗨️",
-      "ping": 6,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇸🇬",
-      "ping": 6,
+      "config": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.130.125.126:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=1&host=vangoghhh.info&type=ws&allowInsecure=1&sni=vangoghhh.info#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%F0%9F%87%A9%F0%9F%87%AA",
+      "ping": 5,
       "alive": true,
       "country": "Unknown"
     },
     {
       "config": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#🇺🇸 1 - US - VLESS/WS - 8080",
-      "ping": 7,
+      "ping": 6,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?path=/&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#🇺🇸 6 - US - VLESS/WS - 8080",
-      "ping": 7,
+      "config": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?encryption=none&host=vangoghhh.info&path=/rdfgtws&security=tls&sni=vangoghhh.info&type=ws#🇺🇸 35 - US - VLESS/WS/TLS - 443",
+      "ping": 6,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080?path=/&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#🇺🇸 11 - US - VLESS/WS - 8080",
-      "ping": 7,
+      "config": "vless://356c9372-6049-c02c-3460-b021014693c2@104.18.28.234:443?path=/msad&security=tls&encryption=none&insecure=0&host=cold-cake-60bd.javascriptirir.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=cold-cake-60bd.javascriptirir.workers.dev#🇨🇦 62 - CA - VLESS/WS/TLS/UTLS - 443",
+      "ping": 6,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?encryption=none&type=ws&security=tls&path=/eyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19?ed&host=bpb-expo--10rayly4zy.expo.app&sni=BpB-expO--10RaYly4zY.EXPO.App&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#🇸🇨 18 - SC - VLESS/WS/TLS/UTLS - 2053",
-      "ping": 7,
+      "config": "vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@173.245.58.75:443?encryption=none&fp=chrome&host=amoosamiii.net&path=/poiuyws&security=tls&sni=amoosamiii.net&type=ws#🇨🇦 255 - CA - VLESS/WS/TLS/UTLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?encryption=none&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyz&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#🇺🇸 288 - US - VLESS/WS/TLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&security=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=/#🇺🇸 292 - US - VLESS/WS - 80",
+      "ping": 6,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@94.140.0.255:443?encryption=none&security=tls&sni=mozconfigs.mohammadaz2sub.ir&type=ws&host=mozconfigs.mohammadaz2sub.ir&path=/ws?ed=2048#🇦🇪 321 - AE - VLESS/WS/TLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "United Arab Emirates"
+    },
+    {
+      "config": "vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@108.162.192.75:443?path=/rsedgws&security=tls&encryption=none&host=shegeftihaaa.net&fp=chrome&allowinsecure=0&type=ws&sni=shegeftihaaa.net#🇺🇸 333 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?encryption=none&host=shegeftihaaa.net&path=/rsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🇺🇸 335 - US - VLESS/WS/TLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Costa Rica"
+    },
+    {
+      "config": "vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@104.16.75.224:443?path=/page=2&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-3.ariyuz.org#🇺🇸 573 - US - VLESS/WS/TLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?encryption=none&security=tls&sni=octopusss5.info&type=ws&host=octopusss5.info&path=/udfyfws#🇺🇸 584 - US - VLESS/WS/TLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.41.190:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 664 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.54:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇨🇦 666 - CA - VLESS/WS/TLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.47.19:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 669 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.158:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=ios&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇸🇨 681 - SC - VLESS/WS/TLS/UTLS - 443",
+      "ping": 6,
       "alive": true,
       "country": "Seychelles"
     },
     {
-      "config": "vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&host=octopusss.net&type=ws&sni=octopusss.net#🇺🇸 22 - US - VLESS/WS/TLS - 443",
+      "config": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.17.108.69:8443?encryption=none&security=tls&sni=srv14.hamiibar.com&type=ws&host=srv14.hamiibar.com&path=/#🇺🇸 711 - US - VLESS/WS/TLS - 8443",
+      "ping": 6,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?host=space.byu.id.yxls.eu.cc&path=/br-orcl&sni=space.byu.id.yxls.eu.cc&type=ws#🇺🇸 57 - US - Trojan/WS/TLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸 69 - US - Trojan/WS/TLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇨🇦 75 - CA - Trojan/WS/TLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@172.64.147.166:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 102 - US - Trojan/WS/TLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@172.66.47.69:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 110 - US - Trojan/WS/TLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@188.114.96.3:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸 115 - US - Trojan/WS/TLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@45.130.125.160:443?alpn=http/1.1&fp=chrome&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#🇸🇨 141 - SC - Trojan/WS/TLS/UTLS - 443",
+      "ping": 6,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#🇨🇦",
+      "ping": 6,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.130.125.126:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=1&host=vangoghhh.info&type=ws&allowInsecure=1&sni=vangoghhh.info#%E2%80%8E%F0%9F%9B%B0%EF%B8%8F%20%40nitruStore%2033",
+      "ping": 6,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://8a4a1c56-4edb-4c00-9a54-52131884f8aa@chatgpt.com:443?encryption=none&security=tls&sni=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&fp=chrome&type=ws&host=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&path=%2FeyJqdW5rIjoid2p5c3FoMndheGhqMnpqZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D4945#%F0%9F%87%AE%F0%9F%87%B7@Letiranbreath",
+      "ping": 6,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?path=%2FeyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19%3Fed&security=tls&encryption=none&alpn=http/1.1&host=bpb-expo--10rayly4zy.expo.app&fp=chrome&allowinsecure=0&type=ws&sni=BpB-expO--10RaYly4zY.EXPO.App#🇩🇪All¹",
+      "ping": 6,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80?path=%2Fvless&security=none&encryption=none&host=education.panelvps.eu.org&type=ws#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%F0%9F%87%B8%F0%9F%87%AC",
+      "ping": 6,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://00e94078-bb1e-49aa-8567-e1b3b2843150@172.67.195.229:443?allowInsecure=1&encryption=none&fp=chrome&host=rapid-hat-441d.platovpn.workers.dev&path=/&security=tls&sni=rapid-hat-441d.platovpn.workers.dev&type=ws#🇨🇦 12 - CA - VLESS/WS/TLS/UTLS - 443",
+      "ping": 7,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.17.121.98:443?encryption=none&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#🇨🇦 27 - CA - VLESS/WS/TLS - 443",
+      "ping": 7,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://362a79a2-ce89-8d2d-355c-f1f5071a445f@188.114.96.7:8443?path=/sync&security=tls&encryption=none&insecure=0&host=fragrant-unit-d662.mmammatrix770088.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fragrant-unit-d662.mmammatrix770088.workers.dev#🇺🇸 66 - US - VLESS/WS/TLS/UTLS - 8443",
+      "ping": 7,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@173.245.58.75:443?path=/poiuyws&security=tls&encryption=none&host=amoosamiii.net&fp=chrome&allowinsecure=0&type=ws&sni=amoosamiii.net#🇨🇦 256 - CA - VLESS/WS/TLS/UTLS - 443",
+      "ping": 7,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime55.workers.dev&path=/&security=none&type=ws#🇧🇪 283 - BE - VLESS/WS - 8880",
+      "ping": 7,
+      "alive": true,
+      "country": "United Kingdom"
+    },
+    {
+      "config": "vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?encryption=none&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyz&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#🇺🇸 290 - US - VLESS/WS/TLS - 443",
+      "ping": 7,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://7c7c2a41-bf8c-4dcc-8cca-5e6776da616c@104.16.174.36:443?path=/ws?ed=2580&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=speed.thctech.ir&fp=chrome&type=ws&allowInsecure=0&sni=speed.thctech.ir#🇺🇸 326 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 7,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws&security=tls&encryption=none&host=terazhediii.info&fp=chrome&type=ws&sni=terazhediii.info#🇺🇸 571 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 7,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://b991b390-dd0f-4061-9150-bee0cb467bce@104.238.68.240:443?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&encryption=none&insecure=0&host=opu-ao6.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=opu-ao6.pages.dev#🇺🇸 577 - US - VLESS/WS/TLS/UTLS - 443",
       "ping": 7,
       "alive": true,
       "country": "United States"
     },
     {
-      "config": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#🇺🇸 45 - US - VLESS/WS/TLS/UTLS - 443",
+      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?encryption=none&security=tls&sni=octopusss5.info&type=ws&host=octopusss5.info&path=/udfyfws#🇺🇸 582 - US - VLESS/WS/TLS - 443",
       "ping": 7,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://3bad1d20-8601-49be-86a2-2141d21dec99@104.20.32.49:2083?path=/&security=tls&encryption=none&insecure=0&host=gentle-dream-6aa3.soh8khan13.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=gentle-dream-6aa3.soh8khan13.workers.dev#🇺🇸 204 - US - VLESS/WS/TLS/UTLS - 2083",
+      "config": "vless://e1ea855f-d0c2-5ed2-a454-294bb73c0cee@104.16.72.70:8443?encryption=none&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&path=/ZoRoVpn&security=tls&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com&type=ws#🇨🇦 630 - CA - VLESS/WS/TLS - 8443",
       "ping": 7,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@172.64.32.75:443?path=/poiuyws&security=tls&encryption=none&host=amoosamiii.net&type=ws&sni=amoosamiii.net#🇺🇸 246 - US - VLESS/WS/TLS - 443",
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.54:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/#🇨🇦 667 - CA - VLESS/WS/TLS - 443",
       "ping": 7,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?encryption=none&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyzfp=chrome#🇺🇸 281 - US - VLESS/WS/TLS - 443",
-      "ping": 7,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&security=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=/#🇺🇸 284 - US - VLESS/WS - 80",
-      "ping": 7,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#🇺🇸 293 - US - VLESS/WS/TLS - 443",
-      "ping": 7,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://7c7c2a41-bf8c-4dcc-8cca-5e6776da616c@45.130.125.112:443?path=/ws?ed=2580&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=speed.thctech.ir&fp=chrome&type=ws&allowInsecure=0&sni=speed.thctech.ir#🇸🇨 312 - SC - VLESS/WS/TLS/UTLS - 443",
-      "ping": 7,
-      "alive": true,
-      "country": "Seychelles"
-    },
-    {
-      "config": "vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?encryption=none&host=shegeftihaaa.net&path=/rsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🇺🇸 320 - US - VLESS/WS/TLS - 443",
-      "ping": 7,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@147.185.161.152:2087?encryption=none&fp=chrome&host=weathered-brook-18b6.alvlirm741.workers.dev&path=/proxyip=212.193.35.100,185.218.0.16,83.147.255.88,138.124.255.49,185.147.26.135,79.174.80.62,185.72.145.79,82.146.38.33&security=tls&sni=weathered-brook-18b6.alvlirm741.workers.dev&type=ws#🇺🇸 326 - US - VLESS/WS/TLS/UTLS - 2087",
-      "ping": 7,
-      "alive": true,
-      "country": "United States"
-    },
-    {
-      "config": "vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@104.16.75.224:443?path=/page=2&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-3.ariyuz.org#🇺🇸 530 - US - VLESS/WS/TLS - 443",
-      "ping": 7,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?encryption=none&security=tls&sni=octopusss5.info&type=ws&host=octopusss5.info&path=/udfyfws#🇺🇸 542 - US - VLESS/WS/TLS - 443",
-      "ping": 7,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@104.17.148.22:2083?allowInsecure=1&encryption=none&host=yousef.varzesh.dpdns.org&path=/&security=tls&sni=yousef.varzesh.dpdns.org&type=ws#🇺🇸 553 - US - VLESS/WS/TLS - 2083",
-      "ping": 7,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://e1ea855f-d0c2-5ed2-a454-294bb73c0cee@104.16.72.70:8443?path=/ZoRoVpn&security=tls&encryption=none&insecure=0&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&type=ws&allowInsecure=0&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com#🇺🇸 611 - US - VLESS/WS/TLS - 8443",
-      "ping": 7,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.41.190:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 640 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 7,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.144.82:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 649 - US - VLESS/WS/TLS - 443",
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 676 - US - VLESS/WS/TLS - 443",
       "ping": 7,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.146.66:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 652 - US - VLESS/WS/TLS/UTLS - 443",
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.146.66:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 677 - US - VLESS/WS/TLS/UTLS - 443",
       "ping": 7,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@188.114.97.6:8443?path=/&security=tls&encryption=none&insecure=0&host=srv71.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv71.perfectbulk.info#🇺🇸 672 - US - VLESS/WS/TLS/UTLS - 8443",
+      "config": "trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?host=space.byu.id.yxls.eu.cc&path=/br-orcl&sni=space.byu.id.yxls.eu.cc&type=ws#🇺🇸 58 - US - Trojan/WS/TLS - 443",
       "ping": 7,
       "alive": true,
       "country": "Unknown"
@@ -963,266 +951,260 @@
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸 66 - US - Trojan/WS/TLS - 443",
+      "config": "trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇨🇦 98 - CA - Trojan/WS/TLS - 443",
       "ping": 7,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@104.16.62.25:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#🇺🇸 67 - US - Trojan/WS/TLS - 443",
+      "config": "trojan://humanity@198.62.62.23:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸 119 - US - Trojan/WS/TLS - 443",
       "ping": 7,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=/assignment#🇺🇸 82 - US - Trojan/WS/TLS/UTLS - 443",
+      "config": "trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#🇺🇸 131 - US - Trojan/WS/TLS - 443",
       "ping": 7,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@104.19.208.184:443?host=www.multiplydose.com&path=/%2Fassignment&sni=www.multiplydose.com&type=ws#🇺🇸 86 - US - Trojan/WS/TLS - 443",
+      "config": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#👁️‍🗨️",
       "ping": 7,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@45.130.125.160:443?alpn=http/1.1&fp=chrome&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#🇸🇨 141 - SC - Trojan/WS/TLS/UTLS - 443",
-      "ping": 7,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇺🇸",
-      "ping": 7,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.149.209:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🇨🇦",
-      "ping": 7,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=/rdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#🇩🇪",
-      "ping": 7,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.18.47.140:2096?encryption=none&fp=chrome&host=sp.linuxdododo.ccwu.cc&path=/proxyip=ProxyIP.JP.cmliussss.netfp=random&security=tls&sni=sp.linuxdododo.ccwu.cc&type=ws#🇺🇸 20 - US - VLESS/WS/TLS/UTLS - 2096",
+      "config": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?path=/&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#🇺🇸 6 - US - VLESS/WS - 8080",
       "ping": 8,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://0d27ab04-4523-4ae0-94b0-3e14c2089756@104.16.72.70:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=hadi.getfreecp.com&fp=chrome&type=ws&sni=hadi.getfreecp.com#🇺🇸 33 - US - VLESS/WS/TLS/UTLS - 443",
+      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?encryption=none&security=tls&sni=BpB-expO--10RaYly4zY.EXPO.App&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=bpb-expo--10rayly4zy.expo.app&path=/eyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19?ed#🇸🇨 16 - SC - VLESS/WS/TLS/UTLS - 2053",
       "ping": 8,
       "alive": true,
-      "country": "Canada"
+      "country": "Seychelles"
     },
     {
-      "config": "vless://12cb0a24-0438-4980-8617-9c93205895fa@216.24.57.6:8443?encryption=none&fp=chrome&host=kakoolnews.dontstealkakoolnews.workers.dev&path=/&security=tls&sni=kakoolnews.dontstealkakoolnews.workers.dev&type=ws#🇺🇸 39 - US - VLESS/WS/TLS/UTLS - 8443",
+      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?encryption=none&type=ws&security=tls&path=/eyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19?ed&host=bpb-expo--10rayly4zy.expo.app&sni=BpB-expO--10RaYly4zY.EXPO.App&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇸🇨 17 - SC - VLESS/WS/TLS/UTLS - 2053",
+      "ping": 8,
+      "alive": true,
+      "country": "Seychelles"
+    },
+    {
+      "config": "vless://12cb0a24-0438-4980-8617-9c93205895fa@216.24.57.6:8443?encryption=none&fp=chrome&host=kakoolnews.dontstealkakoolnews.workers.dev&path=/&security=tls&sni=kakoolnews.dontstealkakoolnews.workers.dev&type=ws#🇺🇸 32 - US - VLESS/WS/TLS/UTLS - 8443",
       "ping": 8,
       "alive": true,
       "country": "United States"
     },
     {
-      "config": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?encryption=none&host=vangoghhh.info&path=/rdfgtws&security=tls&sni=vangoghhh.info&type=ws#🇺🇸 43 - US - VLESS/WS/TLS - 443",
+      "config": "vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@172.64.32.75:443?encryption=none&host=amoosamiii.net&path=/poiuyws&security=tls&sni=amoosamiii.net&type=ws#🇨🇦 253 - CA - VLESS/WS/TLS - 443",
       "ping": 8,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@172.64.32.75:443?encryption=none&host=amoosamiii.net&path=/poiuyws&security=tls&sni=amoosamiii.net&type=ws#🇺🇸 245 - US - VLESS/WS/TLS - 443",
+      "config": "vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&fp=chrome&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#🇺🇸 311 - US - VLESS/WS/TLS/UTLS - 443",
       "ping": 8,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=amoosamiii.net&type=ws&host=amoosamiii.net&path=/poiuyws#🇺🇸 250 - US - VLESS/WS/TLS - 443",
+      "config": "vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.15.137:443?encryption=none&security=tls&sni=shegeftihaaa.net&type=ws&host=shegeftihaaa.net&path=/rsedgws#🇨🇦 332 - CA - VLESS/WS/TLS - 443",
       "ping": 8,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime55.workers.dev&path=/&security=none&type=ws#🇧🇪 275 - BE - VLESS/WS - 8880",
+      "config": "vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=/hdgrbws&security=tls&encryption=none&host=terazhediii.info&type=ws&sni=terazhediii.info#🇨🇦 570 - CA - VLESS/WS/TLS - 443",
       "ping": 8,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.26.4.60:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/#🇨🇦 671 - CA - VLESS/WS/TLS - 443",
+      "ping": 8,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "trojan://humanity@104.17.121.71:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#🇨🇦 71 - CA - Trojan/WS/TLS/UTLS - 443",
+      "ping": 8,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@104.18.13.149:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=1&fp=chrome#🇺🇸 76 - US - Trojan/WS/TLS/UTLS - 443",
+      "ping": 8,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@104.19.229.21:443?path=/assignment?L=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇺🇸 89 - US - Trojan/WS/TLS/UTLS - 443",
+      "ping": 8,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 104 - US - Trojan/WS/TLS - 443",
+      "ping": 8,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@45.130.125.160:443?alpn=http/1.1&fp=chrome&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#🇸🇨 142 - SC - Trojan/WS/TLS/UTLS - 443",
+      "ping": 8,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 151 - US - Trojan/WS/TLS - 443",
+      "ping": 8,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http/1.1&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#🇺🇸 152 - US - Trojan/WS/TLS - 443",
+      "ping": 8,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=t02.tzteam.online&fp=firefox&type=ws&allowInsecure=0&sni=t02.tzteam.online#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%F0%9F%87%AC%F0%9F%87%A7",
+      "ping": 8,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#🇩🇪",
+      "ping": 8,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://8a4a1c56-4edb-4c00-9a54-52131884f8aa@hcaptcha.com:443?encryption=none&security=tls&sni=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&fp=chrome&type=ws&host=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&path=%2FeyJqdW5rIjoid2p5c3FoMndheGhqMnpqZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D4945&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%228%22%2C%22length%22%3A%225%22%2C%22maxSplit%22%3A%22140%22%2C%22packets%22%3A%221-1%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%AE%F0%9F%87%B7@Letiranbreath-FRAG",
+      "ping": 8,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.18.47.140:2096?encryption=none&fp=chrome&host=sp.linuxdododo.ccwu.cc&path=/proxyip=ProxyIP.JP.cmliussss.netfp=random&security=tls&sni=sp.linuxdododo.ccwu.cc&type=ws#🇺🇸 20 - US - VLESS/WS/TLS/UTLS - 2096",
+      "ping": 9,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://0779dc74-2464-461f-90ef-874e4cae7fae@188.114.96.3:2053?path=/eyJqdW5rIjoiUHQ4YzBma3IxczlPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=weathered-math-1f8b.amiralighasempor010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=WeaTHeREd-MATH-1f8B.aMIRAligHasEMPoR010.WOrkERs.dEv#🇺🇸 24 - US - VLESS/WS/TLS/UTLS - 2053",
+      "ping": 9,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&fp=chrome&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#🇺🇸 312 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 9,
       "alive": true,
       "country": "United Kingdom"
     },
     {
-      "config": "vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&fp=chrome&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#🇺🇸 292 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 8,
+      "config": "vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#🇺🇸 567 - US - VLESS/WS/TLS - 443",
+      "ping": 9,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@45.130.125.158:443?path=/page=2&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=server-ir-3.ariyuz.org&fp=ios&type=ws&allowInsecure=0&sni=server-ir-3.ariyuz.org#🇸🇨 532 - SC - VLESS/WS/TLS/UTLS - 443",
-      "ping": 8,
-      "alive": true,
-      "country": "Seychelles"
-    },
-    {
-      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?encryption=none&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#🇸🇨 546 - SC - VLESS/WS/TLS - 443",
-      "ping": 8,
-      "alive": true,
-      "country": "Seychelles"
-    },
-    {
-      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.60.231:443?allowInsecure=1&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸 616 - US - VLESS/WS/TLS - 443",
-      "ping": 8,
+      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?encryption=none&fp=chrome&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#🇺🇸 583 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 9,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 651 - US - VLESS/WS/TLS - 443",
-      "ping": 8,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.17.108.69:8443?path=/&security=tls&encryption=none&insecure=0&host=srv14.hamiibar.com&fp=chrome&type=ws&allowInsecure=0&sni=srv14.hamiibar.com#🇺🇸 671 - US - VLESS/WS/TLS/UTLS - 8443",
-      "ping": 8,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@104.17.121.71:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#🇺🇸 71 - US - Trojan/WS/TLS/UTLS - 443",
-      "ping": 8,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@104.21.40.34:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 90 - US - Trojan/WS/TLS - 443",
-      "ping": 8,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 96 - US - Trojan/WS/TLS - 443",
-      "ping": 8,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@172.64.147.166:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 99 - US - Trojan/WS/TLS - 443",
-      "ping": 8,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@66.81.247.155:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=0#🇺🇸 146 - US - Trojan/WS/TLS/UTLS - 443",
-      "ping": 8,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#🇩🇪",
-      "ping": 8,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%F0%9F%87%AB%F0%9F%87%AE",
-      "ping": 8,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇸🇬",
-      "ping": 8,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?encryption=none&type=ws&security=tls&path=/eyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19?ed&host=bpb-expo--10rayly4zy.expo.app&sni=BpB-expO--10RaYly4zY.EXPO.App&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇸🇨 17 - SC - VLESS/WS/TLS/UTLS - 2053",
+      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?encryption=none&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#🇸🇨 585 - SC - VLESS/WS/TLS - 443",
       "ping": 9,
       "alive": true,
       "country": "Seychelles"
     },
     {
-      "config": "vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@173.245.58.75:443?encryption=none&fp=chrome&host=amoosamiii.net&path=/poiuyws&security=tls&sni=amoosamiii.net&type=ws#🇺🇸 247 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 9,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&fp=chrome&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#🇺🇸 291 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 9,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@104.16.75.224:443?path=/page=2&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-3.ariyuz.org#🇺🇸 531 - US - VLESS/WS/TLS - 443",
-      "ping": 9,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?encryption=none&security=tls&sni=octopusss5.info&type=ws&host=octopusss5.info&path=/udfyfws#🇺🇸 545 - US - VLESS/WS/TLS - 443",
-      "ping": 9,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=/#🇸🇨 625 - SC - VLESS/WS/TLS - 2053",
-      "ping": 9,
-      "alive": true,
-      "country": "Seychelles"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.158:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/#🇺🇸 650 - US - VLESS/WS/TLS - 443",
-      "ping": 9,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "trojan://humanity@141.193.213.21:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&allowInsecure=0#🇺🇸 95 - US - Trojan/WS/TLS - 443",
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.008500.xyz:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 683 - US - VLESS/WS/TLS - 443",
       "ping": 9,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@172.64.147.166:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#🇺🇸 101 - US - Trojan/WS/TLS - 443",
+      "config": "trojan://humanity@104.21.40.34:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇨🇦 92 - CA - Trojan/WS/TLS - 443",
       "ping": 9,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@172.66.44.211:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 106 - US - Trojan/WS/TLS - 443",
+      "config": "trojan://humanity@104.21.40.34:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇨🇦 93 - CA - Trojan/WS/TLS - 443",
       "ping": 9,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://1244a6b2-70e2-41fd-8997-97eebe3d2c61@198.41.223.229:443?encryption=none&fp=chrome&host=accv9.mmhz9.workers.dev&path=/&security=tls&sni=accv9.mmhz9.workers.dev&type=ws#🇺🇸 35 - US - VLESS/WS/TLS/UTLS - 443",
+      "config": "trojan://humanity@162.159.193.202:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&type=ws&host=www.calmloud.com&path=/assignment#🇺🇸 99 - US - Trojan/WS/TLS - 443",
+      "ping": 9,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080?path=/&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#🇺🇸 11 - US - VLESS/WS - 8080",
       "ping": 10,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&path=/fp&domain=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&sni=fuckingfangbinxing.cnmfangbinxing-n.workers.dev#🇺🇸 331 - US - VLESS/WS - 2095",
+      "config": "vless://5b9fbf67-e47c-4a2e-9dc2-f1a7a024a9b8@www.speedtest.net:443?path=/eyJqdW5rIjoiRHFvaXJXdEc2QjF1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ezaccess-project-ffd5d4.ez-b75eb6.workers.dev&fp=ios&type=ws#🇨🇦 276 - CA - VLESS/WS/TLS/UTLS - 443",
       "ping": 10,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?allowInsecure=0&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#🇩🇪",
+      "config": "vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=/jdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#🇺🇸 314 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 10,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@45.130.125.158:443?path=/page=2&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=server-ir-3.ariyuz.org&fp=ios&type=ws&allowInsecure=0&sni=server-ir-3.ariyuz.org#🇸🇨 574 - SC - VLESS/WS/TLS/UTLS - 443",
+      "ping": 10,
+      "alive": true,
+      "country": "Seychelles"
+    },
+    {
+      "config": "trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 85 - US - Trojan/WS/TLS - 443",
       "ping": 10,
       "alive": true,
       "country": "Unknown"
+    },
+    {
+      "config": "vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#🇺🇸 313 - US - VLESS/WS/TLS - 443",
+      "ping": 11,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?encryption=none&security=tls&sni=octopusss5.info&type=ws&host=octopusss5.info&path=/udfyfws#🇺🇸 586 - US - VLESS/WS/TLS - 443",
+      "ping": 11,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=/fp&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🇨🇦 638 - CA - VLESS/WS/TLS/UTLS - 443",
+      "ping": 11,
+      "alive": true,
+      "country": "Canada"
     },
     {
       "config": "vless://8a4a1c56-4edb-4c00-9a54-52131884f8aa@hcaptcha.com:443?encryption=none&security=tls&sni=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&fp=chrome&type=ws&host=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&path=%2FeyJqdW5rIjoid2p5c3FoMndheGhqMnpqZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D4945#%F0%9F%87%AE%F0%9F%87%B7@Letiranbreath",
-      "ping": 10,
+      "ping": 11,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=/jdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#🇺🇸 294 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 11,
+      "config": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&path=/fp&domain=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&sni=fuckingfangbinxing.cnmfangbinxing-n.workers.dev#🇺🇸 355 - US - VLESS/WS - 2095",
+      "ping": 12,
       "alive": true,
       "country": "Canada"
     },
@@ -1233,508 +1215,478 @@
       "country": "Canada"
     },
     {
-      "config": "vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?encryption=none&security=tls&sni=octopusss5.info&type=ws&host=octopusss5.info&path=/udfyfws#🇺🇸 547 - US - VLESS/WS/TLS - 443",
-      "ping": 13,
+      "config": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:443?security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🇸🇬",
+      "ping": 21,
       "alive": true,
-      "country": "Canada"
+      "country": "Unknown"
     },
     {
-      "config": "vless://95e62125-f4af-4688-a9e1-7e6d9cd8d862@undef.network:2052?path=%2Fapi-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F",
-      "ping": 13,
+      "config": "vless://5da16620-0386-4da3-a252-12a6380ed1a6@server3.pegibol940.workers.dev:443?encryption=none&host=server3.pegibol940.workers.dev&path=/eyJqdW5rIjoiUHRlMEpuSzRFY1EyeUUwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%3D&security=tls&type=ws#🇨🇦 278 - CA - VLESS/WS/TLS - 443",
+      "ping": 25,
       "alive": true,
       "country": "Germany"
     },
     {
-      "config": "vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?path=/pourya&encryption=none&type=ws#🇺🇸 608 - US - VLESS/WS - 9443",
-      "ping": 17,
+      "config": "vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?path=/pourya&encryption=none&type=ws#🇺🇸 629 - US - VLESS/WS - 9443",
+      "ping": 27,
       "alive": true,
       "country": "United States"
     },
     {
-      "config": "vless://8a4a1c56-4edb-4c00-9a54-52131884f8aa@hcaptcha.com:443?encryption=none&security=tls&sni=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&fp=chrome&type=ws&host=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&path=%2FeyJqdW5rIjoid2p5c3FoMndheGhqMnpqZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D4945&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%228%22%2C%22length%22%3A%225%22%2C%22maxSplit%22%3A%22140%22%2C%22packets%22%3A%221-1%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%AE%F0%9F%87%B7@Letiranbreath-FRAG",
-      "ping": 18,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http/1.1&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#🇺🇸 151 - US - Trojan/WS/TLS - 443",
-      "ping": 19,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://5b9fbf67-e47c-4a2e-9dc2-f1a7a024a9b8@www.speedtest.net:443?path=/eyJqdW5rIjoiRHFvaXJXdEc2QjF1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ezaccess-project-ffd5d4.ez-b75eb6.workers.dev&fp=ios&type=ws#🇺🇸 266 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 23,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 150 - US - Trojan/WS/TLS - 443",
-      "ping": 24,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://9fdfe33e-797d-8e29-f8fa-50a5adb38c61@panel-gfw.mahsagfw.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=0&host=panel-gfw.mahsagfw.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=panel-gfw.mahsagfw.workers.dev#🇺🇸 486 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 26,
+      "config": "vless://9fdfe33e-797d-8e29-f8fa-50a5adb38c61@panel-gfw.mahsagfw.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=0&host=panel-gfw.mahsagfw.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=panel-gfw.mahsagfw.workers.dev#🇨🇦 510 - CA - VLESS/WS/TLS/UTLS - 443",
+      "ping": 31,
       "alive": true,
       "country": "Saudi Arabia"
     },
     {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.008500.xyz:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 657 - US - VLESS/WS/TLS - 443",
-      "ping": 29,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://5da16620-0386-4da3-a252-12a6380ed1a6@server3.pegibol940.workers.dev:443?encryption=none&host=server3.pegibol940.workers.dev&path=/eyJqdW5rIjoiUHRlMEpuSzRFY1EyeUUwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%3D&security=tls&type=ws#🇺🇸 268 - US - VLESS/WS/TLS - 443",
-      "ping": 33,
-      "alive": true,
-      "country": "Germany"
-    },
-    {
-      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=/fp&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🇺🇸 617 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 33,
+      "config": "vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=/rsedgws#🇺🇸 336 - US - VLESS/WS/TLS - 443",
+      "ping": 34,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=//assignment&type=ws#🇺🇸 157 - US - Trojan/WS/TLS - 443",
+      "config": "vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&type=ws&host=shegeftihaaa.net&path=/rsedgws#🇺🇸 337 - US - VLESS/WS/TLS - 443",
+      "ping": 35,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?encryption=none&security=none&type=ws&host=tr-cd.sublink-vip2.com&path=/#🇺🇸 7 - US - VLESS/WS - 8080",
+      "ping": 36,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#🇺🇸 8 - US - VLESS/WS - 8080",
+      "ping": 36,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇨🇦 25 - CA - VLESS/WS/TLS - 8443",
+      "ping": 37,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://8a4a1c56-4edb-4c00-9a54-52131884f8aa@chatgpt.com:443?encryption=none&security=tls&sni=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&fp=chrome&type=ws&host=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&path=%2FeyJqdW5rIjoid2p5c3FoMndheGhqMnpqZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D4945&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%228%22%2C%22length%22%3A%225%22%2C%22maxSplit%22%3A%22140%22%2C%22packets%22%3A%221-1%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%AE%F0%9F%87%B7@Letiranbreath-FRAG",
+      "ping": 38,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F#🇨🇦",
+      "ping": 39,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🇩🇪",
+      "ping": 39,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=/assignment&type=ws#🇺🇸 157 - US - Trojan/WS/TLS - 443",
       "ping": 44,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560&security=tls&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#🇺🇸 270 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 45,
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@nexusmods.com:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/#🇺🇸 688 - US - VLESS/WS/TLS - 443",
+      "ping": 48,
       "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.186.254.138:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇨🇦",
-      "ping": 59,
-      "alive": true,
-      "country": "Unknown"
+      "country": "United States"
     },
     {
       "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@142.248.219.172:2053?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#US",
-      "ping": 60,
+      "ping": 53,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&type=ws&path=/assignment&allow_insecure=0#🇺🇸 153 - US - Trojan/WS/TLS/UTLS - 443",
-      "ping": 61,
+      "config": "trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=/assignment&type=ws#🇺🇸 156 - US - Trojan/WS/TLS - 443",
+      "ping": 55,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#🇨🇦 9 - CA - VLESS/WS - 80",
+      "ping": 65,
       "alive": true,
       "country": "Canada"
     },
     {
-      "config": "trojan://humanity@www.calmlunch.com:443?allowInsecure=1&fp=chrome&host=www.calmlunch.com&path=/assignment&type=ws#🇺🇸 154 - US - Trojan/WS/TLS/UTLS - 443",
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@store.ubi.com:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/#🇺🇸 689 - US - VLESS/WS/TLS - 443",
+      "ping": 69,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&type=ws&path=/assignment&allow_insecure=0#🇺🇸 154 - US - Trojan/WS/TLS/UTLS - 443",
+      "ping": 73,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=//assignment&type=ws#🇺🇸 158 - US - Trojan/WS/TLS - 443",
       "ping": 75,
       "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://b0af1bed-2c43-440c-90bc-4f737fb037ec@biato.sayevpni.store:443?path=/SayeVPNi&security=tls&encryption=none&insecure=0&host=biato.sayevpni.store&type=ws&allowInsecure=0#🇦🇲",
+      "ping": 76,
+      "alive": true,
+      "country": "Saudi Arabia"
+    },
+    {
+      "config": "vless://90cd4a77-141a-43c9-991b-08263cfe9c10@railway-production-b185.up.railway.app:443?encryption=none&security=tls&sni=railway-production-b185.up.railway.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=railway-production-b185.up.railway.app&path=/ws#🇺🇸 385 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 77,
+      "alive": true,
+      "country": "United States"
+    },
+    {
+      "config": "trojan://humanity@www.calmlunch.com:443?allowInsecure=1&fp=chrome&host=www.calmlunch.com&path=/assignment&type=ws#🇺🇸 155 - US - Trojan/WS/TLS/UTLS - 443",
+      "ping": 80,
+      "alive": true,
       "country": "Canada"
     },
     {
-      "config": "vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&path=/&security=tls&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&type=ws#🇳🇱 271 - NL - VLESS/WS/TLS/UTLS - 443",
-      "ping": 82,
+      "config": "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560&security=tls&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#🇺🇸 280 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 81,
       "alive": true,
-      "country": "The Netherlands"
+      "country": "Canada"
     },
     {
-      "config": "vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&encryption=none&type=ws#🇫🇷 62 - FR - VLESS/WS - 80",
-      "ping": 87,
-      "alive": true,
-      "country": "France"
-    },
-    {
-      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@188.226.149.72:2096?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#NL",
-      "ping": 87,
+      "config": "vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#🇩🇪",
+      "ping": 84,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 533 - FR - VLESS/WS/TLS/UTLS - 443",
-      "ping": 88,
-      "alive": true,
-      "country": "France"
-    },
-    {
-      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@37.59.97.136:8443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#FR",
-      "ping": 88,
+      "config": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F#🇸🇬",
+      "ping": 85,
       "alive": true,
       "country": "Unknown"
     },
     {
       "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@194.58.40.141:443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#NL",
-      "ping": 89,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@185.14.184.54:2096?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#NL",
-      "ping": 90,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=de.vpnbase.net&path=/http&security=none&type=ws#🇩🇪 602 - DE - VLESS/WS - 80",
-      "ping": 92,
-      "alive": true,
-      "country": "Germany"
-    },
-    {
-      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@167.99.214.123:2083?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#NL",
-      "ping": 92,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@93.123.85.21:443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#DE",
-      "ping": 93,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#DE",
-      "ping": 93,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://60631b26-691b-40dc-9255-436a9b612754@46.101.172.168:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&path=/&security=tls&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&type=ws#🇩🇪 272 - DE - VLESS/WS/TLS/UTLS - 2087",
-      "ping": 94,
-      "alive": true,
-      "country": "Germany"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@nexusmods.com:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/#🇺🇸 662 - US - VLESS/WS/TLS - 443",
-      "ping": 94,
-      "alive": true,
-      "country": "United States"
-    },
-    {
-      "config": "vless://c6e7823a-a3b3-42af-ae75-7882c2d6c5b3@5.45.184.133:13379?encryption=none&path=/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN&security=none&type=ws#🇩🇪 549 - DE - VLESS/WS - 13379",
-      "ping": 96,
-      "alive": true,
-      "country": "Germany"
-    },
-    {
-      "config": "vless://c6e7823a-a3b3-42af-ae75-7882c2d6c5b3@5.45.184.133:13379?path=%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN&security=&encryption=none&type=ws#🇩🇪",
-      "ping": 96,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇨🇦 26 - CA - VLESS/WS/TLS - 8443",
-      "ping": 97,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@store.ubi.com:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/#🇺🇸 663 - US - VLESS/WS/TLS - 443",
-      "ping": 98,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://8a4a1c56-4edb-4c00-9a54-52131884f8aa@46.101.220.197:8443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&fp=chrome&sni=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&path=%2F%3Fed%3D2560&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%A9%F0%9F%87%AA@Letiranbreath-ECH",
-      "ping": 98,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#🇩🇪 313 - DE - VLESS/WS - 80",
-      "ping": 99,
-      "alive": true,
-      "country": "Germany"
-    },
-    {
-      "config": "vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?path=%2Fdda12c57317ed12178061db1b799ebd2&security=&encryption=none&host=progressiya-vpn.online&type=ws#🇵🇱",
-      "ping": 99,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@162.55.217.158:8443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#DE",
-      "ping": 100,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://8a4a1c56-4edb-4c00-9a54-52131884f8aa@152.53.200.69:8443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&fp=chrome&sni=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&path=%2F%3Fed%3D2560&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%B3%F0%9F%87%B1@Letiranbreath-ECH",
-      "ping": 101,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@77.110.106.162:8443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#FR",
       "ping": 102,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?allowInsecure=1&encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇺🇸 324 - US - VLESS/WS/TLS - 2053",
-      "ping": 106,
+      "config": "vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&encryption=none&type=ws#🇫🇷 50 - FR - VLESS/WS - 80",
+      "ping": 104,
       "alive": true,
-      "country": "Canada"
+      "country": "France"
     },
     {
-      "config": "vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?encryption=none&security=none&type=ws&host=azsv2.ir5ive.ir&path=/#🇮🇷 601 - IR - VLESS/WS - 8880",
-      "ping": 123,
-      "alive": true,
-      "country": "Iran"
-    },
-    {
-      "config": "vless://26a84f89-6c43-464c-8531-3762a1705442@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#🇷🇺 63 - RU - VLESS/WS - 80",
-      "ping": 128,
-      "alive": true,
-      "country": "Russia"
-    },
-    {
-      "config": "vless://a53d90eb-1c8c-4af0-b1b4-b585cbc7e9c7@195.209.90.8:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=edge&sni=s55874.cdn.ngenix.net&alpn=http/1.1#🇷🇺 503 - RU - VLESS/WS/TLS/UTLS - 443",
-      "ping": 130,
-      "alive": true,
-      "country": "Russia"
-    },
-    {
-      "config": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?path=/vless/&encryption=none&type=ws#🇮🇹 14 - IT - VLESS/WS - 80",
-      "ping": 131,
-      "alive": true,
-      "country": "Italy"
-    },
-    {
-      "config": "vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#🇺🇸 314 - US - VLESS/WS - 80",
-      "ping": 132,
-      "alive": true,
-      "country": "Germany"
-    },
-    {
-      "config": "vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.28.speed-storage.ru:443?path=%2Fsequre%2Fws%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&fp=ios&type=ws&sni=213.21.222.28.speed-storage.ru#%40v2ray_phoenix",
-      "ping": 132,
+      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@188.226.149.72:2096?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#NL",
+      "ping": 104,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://8afa4ec4-0cf4-4444-9ef9-e879436bcc09@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#🇷🇺 356 - RU - VLESS/WS - 80",
-      "ping": 133,
+      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@185.14.184.54:2096?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#NL",
+      "ping": 104,
       "alive": true,
-      "country": "Russia"
+      "country": "Unknown"
     },
     {
-      "config": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🇮🇹 15 - IT - VLESS/WS - 80",
-      "ping": 134,
-      "alive": true,
-      "country": "Italy"
-    },
-    {
-      "config": "vless://36562b99-aadd-4e38-b566-24e0d219b1d6@195.63.133.145:443?encryption=none&security=none&type=ws&path=/#🇳🇱 86 - NL - VLESS/WS - 443",
-      "ping": 137,
+      "config": "vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=SC-TheNetherlands2.09vpn.com&path=/vless/&security=none&type=ws#🇳🇱 642 - NL - VLESS/WS - 80",
+      "ping": 105,
       "alive": true,
       "country": "The Netherlands"
     },
     {
-      "config": "vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.28.speed-storage.ru:443?encryption=none&security=tls&sni=213.21.222.28.speed-storage.ru&alpn=http/1.1&type=ws&path=/sequre/ws?ed=2560#🇱🇻 47 - LV - VLESS/WS/TLS - 443",
-      "ping": 144,
+      "config": "vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&path=/&security=tls&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&type=ws#🇺🇸 281 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 107,
       "alive": true,
-      "country": "Latvia"
+      "country": "The Netherlands"
     },
     {
-      "config": "vless://57a55b8b-8a96-4c90-87a1-b3739126e624@185.226.93.26:34634?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#%40MARAMBASHI%20%F0%9F%92%9F",
-      "ping": 146,
+      "config": "vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 575 - FR - VLESS/WS/TLS/UTLS - 443",
+      "ping": 107,
+      "alive": true,
+      "country": "France"
+    },
+    {
+      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@37.59.97.136:8443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#FR",
+      "ping": 109,
       "alive": true,
       "country": "Unknown"
     },
     {
-      "config": "vless://7698fed3-70c6-4938-b2da-e66a76dc44ff@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#🇷🇺 303 - RU - VLESS/WS - 80",
+      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#DE",
+      "ping": 111,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://c6e7823a-a3b3-42af-ae75-7882c2d6c5b3@5.45.184.133:13379?encryption=none&path=/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN&security=none&type=ws#🇩🇪 588 - DE - VLESS/WS - 13379",
+      "ping": 112,
+      "alive": true,
+      "country": "Germany"
+    },
+    {
+      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@167.99.214.123:2083?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#NL",
+      "ping": 112,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🇳🇱 194 - NL - VLESS/WS - 80",
+      "ping": 113,
+      "alive": true,
+      "country": "The Netherlands"
+    },
+    {
+      "config": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=de.vpnbase.net&path=/http&security=none&type=ws#🇩🇪 625 - DE - VLESS/WS - 80",
+      "ping": 113,
+      "alive": true,
+      "country": "Germany"
+    },
+    {
+      "config": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=v2rayNplus-v2rayNplus-v2rayNplus&type=ws#🇩🇪",
+      "ping": 113,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?allowInsecure=1&encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇺🇸 345 - US - VLESS/WS/TLS - 2053",
+      "ping": 116,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://8a4a1c56-4edb-4c00-9a54-52131884f8aa@46.101.220.197:8443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&fp=chrome&sni=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&path=%2F%3Fed%3D2560&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%A9%F0%9F%87%AA@Letiranbreath-ECH",
+      "ping": 116,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@162.55.217.158:8443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#DE",
+      "ping": 117,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@93.123.85.21:443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#DE",
+      "ping": 118,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://8a4a1c56-4edb-4c00-9a54-52131884f8aa@152.53.200.69:8443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&fp=chrome&sni=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&path=%2F%3Fed%3D2560&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%B3%F0%9F%87%B1@Letiranbreath-ECH",
+      "ping": 118,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://651c68a7-fb5b-46d9-a8c4-a3642f5f8ce4@91.107.177.111:44714?encryption=none&host=&path=%2FTelegram-FAST78_CHANNEL--Telegram-FAST78_CHANNEL--Telegram-FAST78_CHANNEL--Telegram-FAST78_CHANNEL--Telegram-FAST78_CHANNEL&security=none&type=ws#Join--%3E%40FAST78_CHANNEL",
+      "ping": 120,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://037db5a7-051f-4ac9-844d-703d087a3984@77.110.106.162:8443?security=tls&type=ws&ech=godotengine.org%2Budp%3A%2F%2F208.67.220.220%3A443&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&fp=chrome&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=%2F%3Fed%3D2560&encryption=none#FR",
+      "ping": 125,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://60631b26-691b-40dc-9255-436a9b612754@46.101.172.168:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&path=/&security=tls&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&type=ws#🇩🇪 282 - DE - VLESS/WS/TLS/UTLS - 2087",
+      "ping": 127,
+      "alive": true,
+      "country": "Germany"
+    },
+    {
+      "config": "vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880?encryption=none&security=none&type=ws&host=azsv2.ir5ive.ir&path=/#🇺🇸 623 - US - VLESS/WS - 8880",
+      "ping": 129,
+      "alive": true,
+      "country": "Iran"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸",
+      "ping": 136,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80?encryption=none&type=ws&security=none&path=/rutube&host=rutube.globaledgenet.com#🇷🇺",
+      "ping": 142,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080?encryption=none&security=none&type=ws&host=tr-cd.sublink-vip2.com&path=/#🇺🇸 10 - US - VLESS/WS - 8080",
+      "ping": 144,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://f1c9e563-5890-447f-96fb-c0d730987167@195.209.86.193:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=chrome&sni=s56902.cdn.ngenix.net&alpn=http/1.1#🇷🇺 700 - RU - VLESS/WS/TLS/UTLS - 443",
+      "ping": 147,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://4aa4b4ac-7866-47d8-82d6-ae2a5a248882@195.209.86.152:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=edge&sni=s55874.cdn.ngenix.net&alpn=http/1.1#🇷🇺 247 - RU - VLESS/WS/TLS/UTLS - 443",
       "ping": 150,
       "alive": true,
       "country": "Russia"
     },
     {
-      "config": "vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?path=/api/connect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#🇷🇺 701 - RU - VLESS/WS/TLS - 443",
-      "ping": 153,
+      "config": "vless://a7e0e1b5-e1d8-44d0-ac78-7ab51df8b6df@195.209.86.152:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=edge&sni=s55874.cdn.ngenix.net&alpn=http/1.1#🇷🇺 554 - RU - VLESS/WS/TLS/UTLS - 443",
+      "ping": 152,
       "alive": true,
-      "country": "India"
+      "country": "Russia"
     },
     {
-      "config": "trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=/assignment&type=ws#🇺🇸 155 - US - Trojan/WS/TLS - 443",
+      "config": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&host=de.vpnbase.net&path=/http&security=none&type=ws#🇩🇪 626 - DE - VLESS/WS - 80",
+      "ping": 158,
+      "alive": true,
+      "country": "Germany"
+    },
+    {
+      "config": "vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@195.209.88.125:443?encryption=none&type=ws&security=tls&path=/api/user&host=s10211.cdn.ngenix.net&fp=firefox&sni=s10211.cdn.ngenix.net#🇷🇺 624 - RU - VLESS/WS/TLS/UTLS - 443",
       "ping": 160,
       "alive": true,
-      "country": "Unknown"
+      "country": "Russia"
     },
     {
-      "config": "vless://5d02362c-cda0-4c20-bc76-91f9bcf49fd7@hentai-cdn.apruxdomain.xyz:80?encryption=none&security=none&type=ws&path=/#🇷🇺 267 - RU - VLESS/WS - 80",
-      "ping": 162,
-      "alive": true,
-      "country": "India"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.83.95.129:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇯🇵",
-      "ping": 162,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://e9fce5e2-c7e1-43e2-bffa-31a2d183db9a@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#🇷🇺 628 - RU - VLESS/WS - 80",
-      "ping": 168,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#🇺🇸 8 - US - VLESS/WS - 8080",
-      "ping": 176,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&host=de.vpnbase.net&path=/http&security=none&type=ws#🇩🇪 603 - DE - VLESS/WS - 80",
-      "ping": 177,
-      "alive": true,
-      "country": "Germany"
-    },
-    {
-      "config": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?encryption=none&security=none&type=ws&host=tr-cd.sublink-vip2.com&path=/#🇺🇸 7 - US - VLESS/WS - 8080",
-      "ping": 178,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&type=ws&host=shegeftihaaa.net&path=/rsedgws#🇺🇸 322 - US - VLESS/WS/TLS - 443",
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@www.cnae.top:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🇺🇸 690 - US - VLESS/WS/TLS - 443",
       "ping": 181,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=/rsedgws#🇺🇸 321 - US - VLESS/WS/TLS - 443",
-      "ping": 183,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🇳🇱 207 - NL - VLESS/WS - 80",
-      "ping": 190,
-      "alive": true,
-      "country": "The Netherlands"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@130.162.130.105:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🇰🇷 647 - KR - VLESS/WS/TLS - 443",
-      "ping": 196,
-      "alive": true,
-      "country": "South Korea"
-    },
-    {
-      "config": "vless://7bd180e8-1142-4387-93f5-03e8d750a896@python-graysongon.wasmer.app:443?encryption=none&host=python-graysongon.wasmer.app&path=/7bd180e8&security=tls&sni=python-graysongon.wasmer.app&type=ws#🇺🇸 307 - US - VLESS/WS/TLS - 443",
-      "ping": 210,
-      "alive": true,
-      "country": "United States"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@138.2.87.237:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🇸🇬 648 - SG - VLESS/WS/TLS - 443",
-      "ping": 226,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=/assignment&type=ws#🇺🇸 156 - US - Trojan/WS/TLS - 443",
-      "ping": 244,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=/ws&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#🇹🇭 205 - TH - VLESS/WS - 80",
-      "ping": 253,
-      "alive": true,
-      "country": "Thailand"
-    },
-    {
-      "config": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080?encryption=none&security=none&type=ws&host=tr-cd.sublink-vip2.com&path=/#🇺🇸 10 - US - VLESS/WS - 8080",
-      "ping": 261,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?encryption=none&security=tls&sni=nuclear.us.kg&insecure=0&allowInsecure=0&type=ws&path=/free/1.226.227.169:50001#🇺🇸 67 - US - VLESS/WS/TLS - 443",
-      "ping": 321,
-      "alive": true,
-      "country": "United States"
-    },
-    {
-      "config": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#🇺🇸 9 - US - VLESS/WS - 80",
-      "ping": 328,
-      "alive": true,
-      "country": "Germany"
-    },
-    {
-      "config": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?allowInsecure=0&sni=cnmfangbinxing.cnmfangbinxing-a.workers.dev&type=ws&host=cnmfangbinxing.cnmfangbinxing-a.workers.dev&path=/fp=randomized#🇸🇬",
-      "ping": 422,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸 618 - US - VLESS/WS/TLS - 443",
-      "ping": 463,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸",
-      "ping": 464,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?fp=chrome&path=/&type=ws#🇺🇸 56 - US - Trojan/WS/TLS/UTLS - 443",
-      "ping": 471,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://7bd180e8-1142-4387-93f5-03e8d750a896@python-graysongon.wasmer.app:443?path=%2F7bd180e8&security=tls&encryption=none&insecure=0&host=python-graysongon.wasmer.app&type=ws&allowInsecure=0&sni=python-graysongon.wasmer.app#🇸🇬",
-      "ping": 501,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.877774.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/#🇺🇸 659 - US - VLESS/WS/TLS - 443",
-      "ping": 525,
-      "alive": true,
-      "country": "Canada"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 660 - US - VLESS/WS/TLS - 443",
-      "ping": 537,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@nexusmods.com:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 661 - US - VLESS/WS/TLS - 443",
-      "ping": 573,
-      "alive": true,
-      "country": "United States"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸",
-      "ping": 591,
-      "alive": true,
-      "country": "Unknown"
-    },
-    {
-      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@www.cnae.top:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🇺🇸 664 - US - VLESS/WS/TLS - 443",
-      "ping": 630,
       "alive": true,
       "country": "UAE"
     },
     {
-      "config": "vless://90cd4a77-141a-43c9-991b-08263cfe9c10@railway-production-b185.up.railway.app:443?encryption=none&security=tls&sni=railway-production-b185.up.railway.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=railway-production-b185.up.railway.app&path=/ws#🇺🇸 369 - US - VLESS/WS/TLS/UTLS - 443",
-      "ping": 634,
+      "config": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🇺🇸 15 - US - VLESS/WS - 80",
+      "ping": 184,
+      "alive": true,
+      "country": "Italy"
+    },
+    {
+      "config": "vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?encryption=none&security=tls&sni=nuclear.us.kg&insecure=0&allowInsecure=0&type=ws&path=/free/1.226.227.169:50001#🇺🇸 53 - US - VLESS/WS/TLS - 443",
+      "ping": 184,
       "alive": true,
       "country": "United States"
     },
     {
-      "config": "vless://e6ad58ac-aa05-4c83-8f4d-886920cfa906@run.befreewithus.space:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=dna.heydroshop.ir&fp=chrome&type=ws&sni=dna.heydroshop.ir#🇮🇷 620 - IR - VLESS/WS/TLS/UTLS - 2083",
-      "ping": 688,
+      "config": "vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?path=/vless/&encryption=none&type=ws#🇺🇸 14 - US - VLESS/WS - 80",
+      "ping": 187,
       "alive": true,
-      "country": "France"
+      "country": "Italy"
+    },
+    {
+      "config": "vless://5d02362c-cda0-4c20-bc76-91f9bcf49fd7@hentai-cdn.apruxdomain.xyz:80?encryption=none&security=none&type=ws&path=/#🇷🇺 277 - RU - VLESS/WS - 80",
+      "ping": 187,
+      "alive": true,
+      "country": "India"
+    },
+    {
+      "config": "vless://5a2a6b54-effb-4433-b758-09f60816b249@94.184.6.8:443?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.6On01U0K5QyfuDcn123mz7F6rW9gYa6Hen7CAbYlfGY&type=ws#%40NETMelliAnti%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF",
+      "ping": 190,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#🇮🇷 129 - IR - Trojan/WS/TLS - 40443",
+      "ping": 200,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.28.speed-storage.ru:443?path=%2Fsequre%2Fws%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&fp=ios&type=ws&sni=213.21.222.28.speed-storage.ru#%40v2ray_phoenix",
+      "ping": 200,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.17.157:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇰🇷",
+      "ping": 208,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@138.2.87.237:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🇸🇬 673 - SG - VLESS/WS/TLS - 443",
+      "ping": 211,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://7bd180e8-1142-4387-93f5-03e8d750a896@python-graysongon.wasmer.app:443?encryption=none&host=python-graysongon.wasmer.app&path=/7bd180e8&security=tls&sni=python-graysongon.wasmer.app&type=ws#🇺🇸 322 - US - VLESS/WS/TLS - 443",
+      "ping": 268,
+      "alive": true,
+      "country": "United States"
+    },
+    {
+      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp%3Drandom&packetEncoding=xudp#🇸🇬",
+      "ping": 270,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.877774.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/#🇺🇸 685 - US - VLESS/WS/TLS - 443",
+      "ping": 277,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 686 - US - VLESS/WS/TLS - 443",
+      "ping": 281,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.28.speed-storage.ru:443?encryption=none&security=tls&sni=213.21.222.28.speed-storage.ru&alpn=http/1.1&type=ws&path=/sequre/ws?ed=2560#🇱🇻 39 - LV - VLESS/WS/TLS - 443",
+      "ping": 292,
+      "alive": true,
+      "country": "Latvia"
+    },
+    {
+      "config": "trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?fp=chrome&path=/&type=ws#🇺🇸 56 - US - Trojan/WS/TLS/UTLS - 443",
+      "ping": 329,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@yd.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸 640 - US - VLESS/WS/TLS/UTLS - 443",
+      "ping": 346,
+      "alive": true,
+      "country": "Canada"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@nexusmods.com:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 687 - US - VLESS/WS/TLS - 443",
+      "ping": 383,
+      "alive": true,
+      "country": "United States"
+    },
+    {
+      "config": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸 639 - US - VLESS/WS/TLS - 443",
+      "ping": 384,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?path=/api/connect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#🇺🇸 731 - US - VLESS/WS/TLS - 443",
+      "ping": 412,
+      "alive": true,
+      "country": "India"
+    },
+    {
+      "config": "vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?path=/vless/&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#🇺🇸 643 - US - VLESS/WS - 80",
+      "ping": 434,
+      "alive": true,
+      "country": "Unknown"
+    },
+    {
+      "config": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.090227.xyz:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🇨🇦 684 - CA - VLESS/WS/TLS - 443",
+      "ping": 697,
+      "alive": true,
+      "country": "Unknown"
     }
   ]
 }
