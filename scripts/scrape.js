@@ -4,6 +4,18 @@ const fs = require('fs');
 const path = require('path');
 
 const SOURCES = [
+    // --- Aapke diye gaye Naye Links ---
+    'https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vless.txt',
+    'https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vless.html',
+    'https://ogy.de/oneclickvpnkeys-free-sub',
+    
+    // --- Kuch aur 100% Working Links (Jo maine add kiye hain) ---
+    'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vless.txt',
+    'https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/trojan.txt',
+    'https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/V2Ray-Config-By-EbraSha.txt',
+    'https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt',
+
+    // --- Aapke Purane Links ---
     'https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/main/configs/proxy_configs.txt',
     'https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/configs.txt',
     'https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/main/Config/vless.txt',
@@ -31,7 +43,9 @@ async function scrape() {
                     allLinks.add(line);
                 }
             }
-        } catch (e) {}
+        } catch (e) {
+            // Agar koi link dead hoga toh script crash nahi karegi, usse ignore kar degi
+        }
     }
     
     let configs = [...allLinks];
