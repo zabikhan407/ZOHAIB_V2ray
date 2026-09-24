@@ -137,7 +137,8 @@
     async function fetchConfigs() {
         document.getElementById('content').innerHTML = '<div class="loading">>_ fetching latest configs...</div>';
         try {
-            const res = await fetch('/configs.json?t=' + Date.now());
+            // YAHAN VEREL KI JAGAH DIRECT GITHUB KA LINK DAAL DIYA HAI
+            const res = await fetch('https://raw.githubusercontent.com/zabikhan407/ZOHAIB_V2ray/main/public/configs.json?t=' + Date.now());
             if (!res.ok) throw new Error('HTTP ' + res.status);
             const data = await res.json();
             allConfigs = data.configs;
@@ -209,8 +210,11 @@
     document.getElementById('refreshBtn').addEventListener('click', fetchConfigs);
     document.getElementById('countryFilter').addEventListener('change', filterConfigs);
     document.getElementById('searchBox').addEventListener('input', filterConfigs);
+    
+    // Website pehle open hone par data fetch karegi
     fetchConfigs();
-    setInterval(fetchConfigs, 60000);
+    
+    // AUTO REFRESH YAHAN SE DELETE KAR DIYA GAYA HAI
 </script>
 </body>
-</html>
+                                                         </html>
